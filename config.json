@@ -1,0 +1,18 @@
+﻿{
+  "Employees": [
+    {
+      "userId": "emp101",
+      "firstName": "John",
+      "lastName": "Doe",
+      "jobTitle": "Software Developer",
+      "email": "john.doe@example.com"
+    },
+    {
+      "userId": "emp102",
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "jobTitle": "Project Manager",
+      "email": "jane.doe@example.com"
+    }
+  ]
+}
