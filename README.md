@@ -1,1 +1,1 @@
-# -sp-tarkov-client-configuration
+# sp-tarkov-client-configuration
