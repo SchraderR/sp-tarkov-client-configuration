@@ -34,5 +34,6 @@
     "SPTQuestingBots": "Questing Bots",
     "WTT-PackNStrap": "WTT - Pack 'n' Strap",
     "Terkoiz.Skipper": "Skipper"
-  }
+  },
+  "notSupported": [1872]
 }
