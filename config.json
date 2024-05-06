@@ -19,7 +19,7 @@
   "alternativeClientModNames": {
     "SVM": "Server Value Modifier [SVM]",
     "SAIN": "SAIN 2.0 - Solarint\"s AI Modifications - Full AI Combat System Replacement",
-    "DrakiaXYZ-BigBrain": "BigBrain",    
+    "DrakiaXYZ-BigBrain": "BigBrain",
     "skwizzy.LootingBots": "Looting Bots",
     "dvize.BushNoESP": "No Bush ESP",
     "DrakiaXYZ-Waypoints": "Waypoints - Expanded Navmesh",
@@ -35,5 +35,15 @@
     "WTT-PackNStrap": "WTT - Pack 'n' Strap",
     "Terkoiz.Skipper": "Skipper"
   },
-  "notSupported": [1872, 1868, 1683, 1889, 1882, 1881]
+  "notSupported": [
+    1250,
+    1872,
+    1868,
+    1683,
+    1889,
+    1882,
+    1881,
+    1913,
+    1912
+  ]
 }
