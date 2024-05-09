@@ -14,7 +14,9 @@
     "Weapons": "Epic's Weapon Pack",
     "Priscilu": "Priscilu: the trader",
     "AmmoStats": "Ammo Stats in Description",
-    "WTT-PackNStrap": "WTT - Pack 'n' Strap"
+    "WTT-PackNStrap": "WTT - Pack 'n' Strap",
+    "AIOTrader": "bluehead's AIO Trader",
+    "armalite-reloaded": "AR Shoppe Unlimited"
   },
   "alternativeClientModNames": {
     "SVM": "Server Value Modifier [SVM]",
@@ -27,7 +29,6 @@
     "SamSWAT.FOV": "SamSwat's INCREASED FOV - Reupload",
     "IcyClawz.ItemSellPrice": "Item Sell Price",
     "CactusPie.FastHealing": "Fast healing",
-    "GamePanelHUDCompass": "Game Panel HUD",
     "CactusPie.MapLocation.Common": "CactusPie's Minimap",
     "SkillsExtended": "[BETA] Skills Extended",
     "BetterFolderBrowser": "Minimalist Launcher",
@@ -37,7 +38,15 @@
     "Display Official Version": "displayofficialversion",
     "Fin's AI Tweaks": "Fin's AI Tweaks (FAIT)",
     "Normalized Bots - Reupload": "Normalised Bots",
-    "EFTApi": "EFT Api"
+    "EFTApi": "EFT Api",
+    "Tyrian-Radar": "ACCURATE CIRCULAR RADAR",
+    "GamePanelHUDCompass": "Game Panel HUD",
+    "GamePanelHUDGrenade": "Game Panel HUD",
+    "GamePanelHUDHealth": "Game Panel HUD",
+    "GamePanelHUDHit": "Game Panel HUD",
+    "GamePanelHUDKill": "Game Panel HUD",
+    "GamePanelHUDWeapon": "Game Panel HUD",
+    "dvize.BackdoorBandit": "Backdoor Bandit (BB)"
   },
   "notSupported": [
     291,
