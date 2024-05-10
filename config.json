@@ -90,7 +90,18 @@
     "GamePanelHUDHit": "Game Panel HUD",
     "GamePanelHUDKill": "Game Panel HUD",
     "GamePanelHUDWeapon": "Game Panel HUD",
-    "dvize.BackdoorBandit": "Backdoor Bandit (BB)"
+    "dvize.BackdoorBandit": "Backdoor Bandit (BB)",
+    "Painter - Trader": "Painter",
+    "CORE": "KMC-CORE",
+    "BorkelRNVG": "Borkel's Realistic Night Vision Goggles (NVGs and T-7)",
+    "BRNVG - N-15 Adapter": "Borkel's Realistic Night Vision Goggles (NVGs and T-7)",
+    "dvize.AILimit": "AI Limit",
+    "AKGUYmod": "AKGuy Super Shop",
+    "alltheboss": "Kiki-AllTheBoss",
+    "That's Lit": "That's Lit - Logical AI Vision",
+    "dvize.FUInertia": "FU Inertia",
+    "Faupi-HideoutArchitect": "FAUPI - HIDEOUT ARCHITECT",
+    "HideoutArchitect": "FAUPI - HIDEOUT ARCHITECT"
   },
   "notSupported": [
     291,
