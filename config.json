@@ -16,7 +16,8 @@
     "AmmoStats": "Ammo Stats in Description",
     "WTT-PackNStrap": "WTT - Pack 'n' Strap",
     "AIOTrader": "bluehead's AIO Trader",
-    "armalite-reloaded": "AR Shoppe Unlimited"
+    "armalite-reloaded": "AR Shoppe Unlimited",
+    "Display Official Version": "displayofficialversion"
   },
   "alternativeClientModNames": {
     "SVM": "Server Value Modifier [SVM]",
@@ -35,7 +36,6 @@
     "SPTQuestingBots": "Questing Bots",
     "WTT-PackNStrap": "WTT - Pack 'n' Strap",
     "Terkoiz.Skipper": "Skipper",
-    "Display Official Version": "displayofficialversion",
     "Fin's AI Tweaks": "Fin's AI Tweaks (FAIT)",
     "Normalized Bots - Reupload": "Normalised Bots",
     "EFTApi": "EFT Api",
