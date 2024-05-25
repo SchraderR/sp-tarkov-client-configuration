@@ -158,5 +158,4631 @@
     "DebugPlus",
     "Load Order Editor Drag-Drop",
     "AKI Mods Installer"
+  ],
+  "modMetaData": [
+    {
+      "name": "The Punisher - Part 7",
+      "hubId": "1987"
+    },
+    {
+      "name": "Silly Balls",
+      "hubId": "1986"
+    },
+    {
+      "name": "Daniel Dfense M231 trench gun",
+      "hubId": "1985"
+    },
+    {
+      "name": "WTT - Armory - HK417",
+      "hubId": "1984"
+    },
+    {
+      "name": "Rexana's Vector Strike Face",
+      "hubId": "1983"
+    },
+    {
+      "name": "Dynamic Maps",
+      "hubId": "1981"
+    },
+    {
+      "name": "Maps with Extraction Location Descriptions",
+      "hubId": "1980"
+    },
+    {
+      "name": "Koko Hekmatyar",
+      "hubId": "1979"
+    },
+    {
+      "name": "Epic's Muzzle Devices",
+      "hubId": "1978"
+    },
+    {
+      "name": "Epic's Weapon Variations",
+      "hubId": "1977"
+    },
+    {
+      "name": "UnityToolkit",
+      "hubId": "1976"
+    },
+    {
+      "name": "Un-flashbang Hideout",
+      "hubId": "1975"
+    },
+    {
+      "name": "SPT-Community Korean Patcher",
+      "hubId": "1974"
+    },
+    {
+      "name": "Immersive Compass (EN|RU)",
+      "hubId": "1973"
+    },
+    {
+      "name": "Rex's 30&amp;34 BOCO",
+      "hubId": "1972"
+    },
+    {
+      "name": "Configurable Steps Volume",
+      "hubId": "1971"
+    },
+    {
+      "name": "Crysis 2 Music Pack",
+      "hubId": "1970"
+    },
+    {
+      "name": "Props Pause",
+      "hubId": "1969"
+    },
+    {
+      "name": "Configurable Fall Damage",
+      "hubId": "1967"
+    },
+    {
+      "name": "Rexana's Math Rings for Scopes",
+      "hubId": "1965"
+    },
+    {
+      "name": "WTT - Voice Patcher",
+      "hubId": "1964"
+    },
+    {
+      "name": "Better Keys Updated",
+      "hubId": "1963"
+    },
+    {
+      "name": "Default Fire Mode Fixer",
+      "hubId": "1962"
+    },
+    {
+      "name": "REUPLOAD: DUTY EXOSKELETON",
+      "hubId": "1961"
+    },
+    {
+      "name": "Better Bullet Cracks (BBC)",
+      "hubId": "1960"
+    },
+    {
+      "name": "SPT-AKI Traditional Chinese (TW) Translation",
+      "hubId": "1958"
+    },
+    {
+      "name": "WTT- Heckler &amp; Koch G3",
+      "hubId": "1957"
+    },
+    {
+      "name": "Rexana's Fav Irons",
+      "hubId": "1956"
+    },
+    {
+      "name": "Aim Down Sights Volume Adjuster",
+      "hubId": "1955"
+    },
+    {
+      "name": "Louder Suppressors",
+      "hubId": "1954"
+    },
+    {
+      "name": "Manual Experience Multiplier for Each Skills (M.E.M.E.S)",
+      "hubId": "1953"
+    },
+    {
+      "name": "Lockpick",
+      "hubId": "1951"
+    },
+    {
+      "name": "Dick Marcinko - Rogue Warrior Voice Pack",
+      "hubId": "1950"
+    },
+    {
+      "name": "Sasha Himik",
+      "hubId": "1948"
+    },
+    {
+      "name": "Rexana's Bipod -Deployed-",
+      "hubId": "1947"
+    },
+    {
+      "name": "Async Bundle Loader",
+      "hubId": "1946"
+    },
+    {
+      "name": "Secure Container for player scav",
+      "hubId": "1945"
+    },
+    {
+      "name": "Legs the Trader",
+      "hubId": "1944"
+    },
+    {
+      "name": "Raid Overhaul Standalone",
+      "hubId": "1943"
+    },
+    {
+      "name": "White Box Fix",
+      "hubId": "1941"
+    },
+    {
+      "name": "Rexana's Dessert Bagel",
+      "hubId": "1940"
+    },
+    {
+      "name": "FOX'S WEAPON SOUND MOD updated",
+      "hubId": "1939"
+    },
+    {
+      "name": "TRAINING STIMS updated",
+      "hubId": "1938"
+    },
+    {
+      "name": "Quieter Faceshield Breathing",
+      "hubId": "1937"
+    },
+    {
+      "name": "Flea Offers Extension (FOE)",
+      "hubId": "1936"
+    },
+    {
+      "name": "Girls Frontline Operation Novensk Trader and Weapon Pack",
+      "hubId": "1935"
+    },
+    {
+      "name": "BetterKeys - Reupload",
+      "hubId": "1934"
+    },
+    {
+      "name": "Merks Trader Image Switcher",
+      "hubId": "1931"
+    },
+    {
+      "name": "WTT - Armory - Wilson Combat",
+      "hubId": "1928"
+    },
+    {
+      "name": "WTT  - Darth Maul",
+      "hubId": "1927"
+    },
+    {
+      "name": "BMWCore",
+      "hubId": "1926"
+    },
+    {
+      "name": "The Machine - Trader",
+      "hubId": "1925"
+    },
+    {
+      "name": "Normalized Bots - Reupload",
+      "hubId": "1924"
+    },
+    {
+      "name": "Raid Movie Background Replacer",
+      "hubId": "1922"
+    },
+    {
+      "name": "Average Custom Traders Price",
+      "hubId": "1921"
+    },
+    {
+      "name": "Simple Crosshair",
+      "hubId": "1920"
+    },
+    {
+      "name": "Crackbones Clothing",
+      "hubId": "1919"
+    },
+    {
+      "name": "NEOTOKYO° OST Main Menu Music",
+      "hubId": "1918"
+    },
+    {
+      "name": "Experience Forever Reboot",
+      "hubId": "1917"
+    },
+    {
+      "name": "Peacemaker",
+      "hubId": "1772"
+    },
+    {
+      "name": "Fontaine's FOV Fix &amp; Variable Optics",
+      "hubId": "942"
+    },
+    {
+      "name": "That's Lit - Logical AI Vision",
+      "hubId": "1453"
+    },
+    {
+      "name": "[BETA] Scorpion",
+      "hubId": "1869"
+    },
+    {
+      "name": "Speed Loader",
+      "hubId": "1826"
+    },
+    {
+      "name": "War Heads",
+      "hubId": "1796"
+    },
+    {
+      "name": "Peacekeeper's Gamma Offers",
+      "hubId": "1190"
+    },
+    {
+      "name": "SNACCPACK - Revival",
+      "hubId": "1196"
+    },
+    {
+      "name": "Raid Overhaul",
+      "hubId": "1673"
+    },
+    {
+      "name": "RepeatableQuestConfig",
+      "hubId": "1885"
+    },
+    {
+      "name": "Realistic Stims",
+      "hubId": "1889"
+    },
+    {
+      "name": "Consumables Galore",
+      "hubId": "1725"
+    },
+    {
+      "name": "Sig Sauer MCX VIRTUS multi carlibre rifle",
+      "hubId": "1897"
+    },
+    {
+      "name": "SAIN 2.0 - Solarint's AI Modifications - Full AI Combat System Replacement",
+      "hubId": "1062"
+    },
+    {
+      "name": "Little Addons",
+      "hubId": "1678"
+    },
+    {
+      "name": "WTT- CZ Scorpion Evo 3",
+      "hubId": "1901"
+    },
+    {
+      "name": "WTT - Remington Adaptive Combat Rifle",
+      "hubId": "1862"
+    },
+    {
+      "name": "Pity Loot",
+      "hubId": "1755"
+    },
+    {
+      "name": "Andern",
+      "hubId": "1463"
+    },
+    {
+      "name": "UI Fixes",
+      "hubId": "1860"
+    },
+    {
+      "name": "Multiply ALL",
+      "hubId": "1057"
+    },
+    {
+      "name": "WTT - Little Drummer Boy",
+      "hubId": "1818"
+    },
+    {
+      "name": "Guiding Light (90%)",
+      "hubId": "1622"
+    },
+    {
+      "name": "SamSWAT's Helicopter Crash Sites - Arys Reloaded",
+      "hubId": "1804"
+    },
+    {
+      "name": "Props In-Raid Modding (PIRM)",
+      "hubId": "850"
+    },
+    {
+      "name": "Artem",
+      "hubId": "1410"
+    },
+    {
+      "name": "SPT Realism Mod",
+      "hubId": "606"
+    },
+    {
+      "name": "Lotus",
+      "hubId": "1717"
+    },
+    {
+      "name": "Leaves Loot Fuckery",
+      "hubId": "1587"
+    },
+    {
+      "name": "WTT - Pack 'n' Strap",
+      "hubId": "1790"
+    },
+    {
+      "name": "WTT- Rogue Justice",
+      "hubId": "1317"
+    },
+    {
+      "name": "WTT - The Long Lost Heads of Yojenkz",
+      "hubId": "1858"
+    },
+    {
+      "name": "WTT  - Up In Smoke",
+      "hubId": "1883"
+    },
+    {
+      "name": "Tarkov Stash",
+      "hubId": "1541"
+    },
+    {
+      "name": "ACCURATE CIRCULAR RADAR",
+      "hubId": "1522"
+    },
+    {
+      "name": "[BETA] Skills Extended",
+      "hubId": "1722"
+    },
+    {
+      "name": "GearProtection",
+      "hubId": "1871"
+    },
+    {
+      "name": "Priscilu: The Trader",
+      "hubId": "1867"
+    },
+    {
+      "name": "Headshot Damage Redirection - HDR",
+      "hubId": "1809"
+    },
+    {
+      "name": "DeDistortionizer",
+      "hubId": "1063"
+    },
+    {
+      "name": "Server Value Modifier [SVM]",
+      "hubId": "379"
+    },
+    {
+      "name": "Boss Hunter's Display Case",
+      "hubId": "1153"
+    },
+    {
+      "name": "Josh Mate's Better Backpacks",
+      "hubId": "772"
+    },
+    {
+      "name": "Stash for Hidden Item Treasures (S.H.I.T.)",
+      "hubId": "1155"
+    },
+    {
+      "name": "Gunsmith",
+      "hubId": "1022"
+    },
+    {
+      "name": "Better Thermals",
+      "hubId": "1644"
+    },
+    {
+      "name": "Kawaii Weapon Mods",
+      "hubId": "424"
+    },
+    {
+      "name": "Realism compatibility patch",
+      "hubId": "1687"
+    },
+    {
+      "name": "Reflex Sights Rework - Updated",
+      "hubId": "1753"
+    },
+    {
+      "name": "Epic's All in One",
+      "hubId": "1764"
+    },
+    {
+      "name": "Treasure Box",
+      "hubId": "1773"
+    },
+    {
+      "name": "TechHappy's Web Minimap",
+      "hubId": "1421"
+    },
+    {
+      "name": "Player Encumbrance Bar",
+      "hubId": "1898"
+    },
+    {
+      "name": "Touhou Trader Icons",
+      "hubId": "1749"
+    },
+    {
+      "name": "Barter Economy",
+      "hubId": "1760"
+    },
+    {
+      "name": "MK-12 AR-10 Shotgun",
+      "hubId": "1696"
+    },
+    {
+      "name": "DVL-50 .50 Cal Single-Shot Bolt-Action Sniper Rifle",
+      "hubId": "1699"
+    },
+    {
+      "name": "AR-54 7.62x54mmR Designated Marksman Rifle (DMR)",
+      "hubId": "1704"
+    },
+    {
+      "name": "Amands' Controller",
+      "hubId": "1550"
+    },
+    {
+      "name": "Amands's Hitmarker",
+      "hubId": "798"
+    },
+    {
+      "name": "HarryHideout",
+      "hubId": "1817"
+    },
+    {
+      "name": "Amands's Graphics",
+      "hubId": "813"
+    },
+    {
+      "name": "Battle for Dormitory",
+      "hubId": "1041"
+    },
+    {
+      "name": "Bronzeman Mode",
+      "hubId": "322"
+    },
+    {
+      "name": "Backdoor Bandit (BB)",
+      "hubId": "1154"
+    },
+    {
+      "name": "Less Restricting Headwear",
+      "hubId": "1247"
+    },
+    {
+      "name": "Trader Modding And Improved Weapon Building",
+      "hubId": "1795"
+    },
+    {
+      "name": "RGBLasers",
+      "hubId": "622"
+    },
+    {
+      "name": "Tactical Gear Component",
+      "hubId": "1555"
+    },
+    {
+      "name": "USEC Additional Clothing",
+      "hubId": "1430"
+    },
+    {
+      "name": "USEC Additional Gear",
+      "hubId": "1431"
+    },
+    {
+      "name": "Borkel's Realistic Night Vision Goggles (NVGs and T-7)",
+      "hubId": "1303"
+    },
+    {
+      "name": "BEAR Additional Clothing",
+      "hubId": "1000"
+    },
+    {
+      "name": "Additional Gear - BEAR",
+      "hubId": "1020"
+    },
+    {
+      "name": "Borkel's Big Realistic Thermal Package - Bring real life realism to your thermal scopes",
+      "hubId": "1510"
+    },
+    {
+      "name": "Borkel's Bloody Bullet Wounds",
+      "hubId": "1740"
+    },
+    {
+      "name": "GTFO",
+      "hubId": "1736"
+    },
+    {
+      "name": "AK Rail Extension",
+      "hubId": "1537"
+    },
+    {
+      "name": "HK416 16in Heavy barrel",
+      "hubId": "1615"
+    },
+    {
+      "name": "G36 Mod 0 Extreme",
+      "hubId": "1449"
+    },
+    {
+      "name": "Props Automated Selling",
+      "hubId": "1009"
+    },
+    {
+      "name": "Valens-Progression",
+      "hubId": "783"
+    },
+    {
+      "name": "Unheard Kukri: Unity Store Edition",
+      "hubId": "1886"
+    },
+    {
+      "name": "Friendly PMC",
+      "hubId": "989"
+    },
+    {
+      "name": "JB TrackIR",
+      "hubId": "1910"
+    },
+    {
+      "name": "Penguin's Drug Collectables",
+      "hubId": "1900"
+    },
+    {
+      "name": "All Ammo Trader",
+      "hubId": "1720"
+    },
+    {
+      "name": "FUInertia Redux",
+      "hubId": "1903"
+    },
+    {
+      "name": "Stash Search",
+      "hubId": "1769"
+    },
+    {
+      "name": "Virtual's Custom Quest Loader",
+      "hubId": "885"
+    },
+    {
+      "name": "Hardcore Rules",
+      "hubId": "1054"
+    },
+    {
+      "name": "Ammo Stats in Description",
+      "hubId": "284"
+    },
+    {
+      "name": "WTT - Handguards Galore!",
+      "hubId": "1904"
+    },
+    {
+      "name": "Proper LShZ-2DTM Helmet Enhanced",
+      "hubId": "1893"
+    },
+    {
+      "name": "Unheard update item preview",
+      "hubId": "1884"
+    },
+    {
+      "name": "PaPa's Simple Item Value Library",
+      "hubId": "1899"
+    },
+    {
+      "name": "Module-AdditionalWeapons",
+      "hubId": "1906"
+    },
+    {
+      "name": "Minimalist Launcher",
+      "hubId": "1663"
+    },
+    {
+      "name": "MFAC Gear",
+      "hubId": "1250"
+    },
+    {
+      "name": "Recoil Tweaker",
+      "hubId": "866"
+    },
+    {
+      "name": "MFAC Shop Module",
+      "hubId": "1208"
+    },
+    {
+      "name": "WTT - Head and Voice Selector",
+      "hubId": "1788"
+    },
+    {
+      "name": "Looting Bots",
+      "hubId": "1096"
+    },
+    {
+      "name": "Retro Colt AR-15 Carry Handle Scope",
+      "hubId": "1896"
+    },
+    {
+      "name": "MFAC-I Eyewear",
+      "hubId": "1353"
+    },
+    {
+      "name": "Light's Automatic Armband Assistant",
+      "hubId": "1490"
+    },
+    {
+      "name": "Snake Clothing Pack",
+      "hubId": "1422"
+    },
+    {
+      "name": "MFAC Armor Inserts",
+      "hubId": "1824"
+    },
+    {
+      "name": "Modular - Juggernaut Armor",
+      "hubId": "1641"
+    },
+    {
+      "name": "Negative Effects Chance",
+      "hubId": "1343"
+    },
+    {
+      "name": "9x39mm 50-rounder 6L35",
+      "hubId": "1721"
+    },
+    {
+      "name": "Fair and Balanced Preset for SVM",
+      "hubId": "1243"
+    },
+    {
+      "name": "Questing Bots",
+      "hubId": "1534"
+    },
+    {
+      "name": "Quick Weapon Rack Access",
+      "hubId": "1887"
+    },
+    {
+      "name": "Configureable Inventories",
+      "hubId": "1728"
+    },
+    {
+      "name": "Modular Attachments Server Side Slider/Shooter System",
+      "hubId": "1436"
+    },
+    {
+      "name": "SilverBullet",
+      "hubId": "987"
+    },
+    {
+      "name": "Koko Hekmatyar",
+      "hubId": "1375"
+    },
+    {
+      "name": "PMC Terminators - a custom SAIN preset",
+      "hubId": "1624"
+    },
+    {
+      "name": "Saria Shop",
+      "hubId": "1500"
+    },
+    {
+      "name": "SWAG + Donuts - Dynamic Spawn Waves and Custom Spawn Points",
+      "hubId": "878"
+    },
+    {
+      "name": "notGreg's Scope Tweaks",
+      "hubId": "831"
+    },
+    {
+      "name": "Tarkov Uniform Aim",
+      "hubId": "742"
+    },
+    {
+      "name": "M16A4 BY Miralyn",
+      "hubId": "1357"
+    },
+    {
+      "name": "Waypoints - Expanded Navmesh",
+      "hubId": "1119"
+    },
+    {
+      "name": "SPT ModOrganizer Integration",
+      "hubId": "1314"
+    },
+    {
+      "name": "Olympus",
+      "hubId": "713"
+    },
+    {
+      "name": "Expanded Door Interactions",
+      "hubId": "1865"
+    },
+    {
+      "name": "Weight Tweaker",
+      "hubId": "867"
+    },
+    {
+      "name": "Loot Radius",
+      "hubId": "1870"
+    },
+    {
+      "name": "Easy Ammo Names",
+      "hubId": "1763"
+    },
+    {
+      "name": "Copelander Suit",
+      "hubId": "1406"
+    },
+    {
+      "name": "Fontaine's Headbob Reducer",
+      "hubId": "948"
+    },
+    {
+      "name": "Fontaine's Red Dot Tweaker",
+      "hubId": "1335"
+    },
+    {
+      "name": "SamSwat's INCREASED FOV - Reupload",
+      "hubId": "1474"
+    },
+    {
+      "name": "Hiphop/rap music playlist",
+      "hubId": "1803"
+    },
+    {
+      "name": "Rep Multiplier",
+      "hubId": "1766"
+    },
+    {
+      "name": "BlackCore",
+      "hubId": "1345"
+    },
+    {
+      "name": "IMI Uzi Submachine Gun",
+      "hubId": "1258"
+    },
+    {
+      "name": "Quick Move To Containers",
+      "hubId": "1859"
+    },
+    {
+      "name": "Fin's Eerie Silence (Updated)",
+      "hubId": "840"
+    },
+    {
+      "name": "STAR-15 BY CARL MAKES MODS",
+      "hubId": "1419"
+    },
+    {
+      "name": ".300 Blackout Expansion BY CARL MAKES MODS",
+      "hubId": "1418"
+    },
+    {
+      "name": "Q HONEY BADGER by CARL MAKES MODS",
+      "hubId": "1352"
+    },
+    {
+      "name": "Call of Duty OG Music Pack",
+      "hubId": "1481"
+    },
+    {
+      "name": "Scav Experience Counts",
+      "hubId": "1387"
+    },
+    {
+      "name": "Helmet Improvement Program",
+      "hubId": "1636"
+    },
+    {
+      "name": "Synthwave Vibes",
+      "hubId": "1263"
+    },
+    {
+      "name": "Custom Camera Recoil",
+      "hubId": "778"
+    },
+    {
+      "name": "Open Extract",
+      "hubId": "827"
+    },
+    {
+      "name": "Hephaestus",
+      "hubId": "886"
+    },
+    {
+      "name": "Skipper",
+      "hubId": "1861"
+    },
+    {
+      "name": "HandsAreNotBusy",
+      "hubId": "1810"
+    },
+    {
+      "name": "Priscilu: the trader",
+      "hubId": "546"
+    },
+    {
+      "name": "Custom Caliber Weapons (CAT WEAPON EXAMPLE)",
+      "hubId": "1472"
+    },
+    {
+      "name": "KCH MODPACK PORT - custom ammo (CAT AMMO EXAMPLE)",
+      "hubId": "1471"
+    },
+    {
+      "name": "Calibers Ammunitions Template (BETA)",
+      "hubId": "1469"
+    },
+    {
+      "name": "Fontaine's Weapon Modding Quality Of Life",
+      "hubId": "1188"
+    },
+    {
+      "name": "Fontaine's Inspectionless Malfs",
+      "hubId": "661"
+    },
+    {
+      "name": "Fontaine's Always Level Endurance (ALE)",
+      "hubId": "937"
+    },
+    {
+      "name": "Live Flea Prices",
+      "hubId": "1561"
+    },
+    {
+      "name": "Seasonal Weather at Home",
+      "hubId": "1816"
+    },
+    {
+      "name": "alevesthings ported + additional patch",
+      "hubId": "1692"
+    },
+    {
+      "name": "Bigger Bang",
+      "hubId": "252"
+    },
+    {
+      "name": "Repair Max Durability",
+      "hubId": "1819"
+    },
+    {
+      "name": "Custom Stamina",
+      "hubId": "785"
+    },
+    {
+      "name": "PLAP ammo",
+      "hubId": "1447"
+    },
+    {
+      "name": "Easy Ammunition",
+      "hubId": "1298"
+    },
+    {
+      "name": "Zero To Hero+",
+      "hubId": "1273"
+    },
+    {
+      "name": "Boss Notifier",
+      "hubId": "1737"
+    },
+    {
+      "name": "Custom Weight",
+      "hubId": "826"
+    },
+    {
+      "name": "RPG-7",
+      "hubId": "1726"
+    },
+    {
+      "name": "Armsel Striker-12",
+      "hubId": "1677"
+    },
+    {
+      "name": "Beretta 93 Raffica",
+      "hubId": "1450"
+    },
+    {
+      "name": "KappaCam",
+      "hubId": "1821"
+    },
+    {
+      "name": "Cinematic Music Pack",
+      "hubId": "1424"
+    },
+    {
+      "name": "Personal Trainer",
+      "hubId": "1798"
+    },
+    {
+      "name": "Gilded Key Storage",
+      "hubId": "1166"
+    },
+    {
+      "name": "Algorithmic Level Progression",
+      "hubId": "1400"
+    },
+    {
+      "name": "Better Spawns Plus",
+      "hubId": "1002"
+    },
+    {
+      "name": "All Open Zones",
+      "hubId": "936"
+    },
+    {
+      "name": "LOE (Load Order Editor)",
+      "hubId": "1082"
+    },
+    {
+      "name": "AllTheLoot",
+      "hubId": "1674"
+    },
+    {
+      "name": "Custom Raid Times",
+      "hubId": "771"
+    },
+    {
+      "name": "Arse Scratching Service (ASS)",
+      "hubId": "1138"
+    },
+    {
+      "name": "CONTAINER-ONYX",
+      "hubId": "1502"
+    },
+    {
+      "name": "Lots of Loot",
+      "hubId": "697"
+    },
+    {
+      "name": "AT233's Titanfall 2 Weapons and Attachments",
+      "hubId": "1209"
+    },
+    {
+      "name": "Expanded Task Text (ETT)",
+      "hubId": "1415"
+    },
+    {
+      "name": "Kalashnikov Enhanced Modding",
+      "hubId": "1033"
+    },
+    {
+      "name": "Fox - PINEAPPLE BLITZ GRENADE (RE-UPLOAD)",
+      "hubId": "1714"
+    },
+    {
+      "name": "Dad Gamer Mode",
+      "hubId": "926"
+    },
+    {
+      "name": "All in Weapon",
+      "hubId": "534"
+    },
+    {
+      "name": "Amands' Sense",
+      "hubId": "1361"
+    },
+    {
+      "name": "Late to the Party",
+      "hubId": "1099"
+    },
+    {
+      "name": "Make PL-15 Great Again!",
+      "hubId": "1640"
+    },
+    {
+      "name": "Make VPO-101 Great Again!",
+      "hubId": "1645"
+    },
+    {
+      "name": "BUMA-Revamped (Bosses Use Meta Ammo)",
+      "hubId": "1671"
+    },
+    {
+      "name": "Keys In Loot (KIL)",
+      "hubId": "1738"
+    },
+    {
+      "name": "Gigachad Workout",
+      "hubId": "1716"
+    },
+    {
+      "name": "ATLAS Custom Weapons &amp; Equipment",
+      "hubId": "1026"
+    },
+    {
+      "name": "Case Rejiggler",
+      "hubId": "550"
+    },
+    {
+      "name": "Jiblet-LeKaiju-Orbitas-AmmoPouch",
+      "hubId": "970"
+    },
+    {
+      "name": "TIME &amp; WEATHER CHANGER - Updated by Cj",
+      "hubId": "1661"
+    },
+    {
+      "name": "Tokarev Mod 1 Extreme",
+      "hubId": "1420"
+    },
+    {
+      "name": "ShAK-12 Kit",
+      "hubId": "1444"
+    },
+    {
+      "name": "Color coded keys",
+      "hubId": "1802"
+    },
+    {
+      "name": "Holtzman Shield",
+      "hubId": "488"
+    },
+    {
+      "name": "Tarkov Dual Sense Adaptive Triggers",
+      "hubId": "1551"
+    },
+    {
+      "name": "No Grenade ESP",
+      "hubId": "1029"
+    },
+    {
+      "name": "Fontaine's Zeroing Quality Of Life",
+      "hubId": "1198"
+    },
+    {
+      "name": "Nujabes Music",
+      "hubId": "1794"
+    },
+    {
+      "name": "Arys' Custom Asset Importer",
+      "hubId": "1731"
+    },
+    {
+      "name": "Stonewall Combat Helmet",
+      "hubId": "1390"
+    },
+    {
+      "name": "Medical Attention",
+      "hubId": "255"
+    },
+    {
+      "name": "EFT SCOPE AND RED DOT SIGHT OVERHAUL BY GEFF HANNIGAN - Reupload",
+      "hubId": "1327"
+    },
+    {
+      "name": "LootValue",
+      "hubId": "1606"
+    },
+    {
+      "name": "Yuri The Rat",
+      "hubId": "1799"
+    },
+    {
+      "name": "MoreHideoutCrafts",
+      "hubId": "999"
+    },
+    {
+      "name": "Puppy's Custom Svm Preset",
+      "hubId": "1754"
+    },
+    {
+      "name": "MoreCheckmarks",
+      "hubId": "1159"
+    },
+    {
+      "name": "Yet Another Miralyn weapons port",
+      "hubId": "1245"
+    },
+    {
+      "name": "Massivesoft's Guns",
+      "hubId": "1670"
+    },
+    {
+      "name": "Realistic Trader Icons",
+      "hubId": "1141"
+    },
+    {
+      "name": "RedCore",
+      "hubId": "1225"
+    },
+    {
+      "name": "GreenCore",
+      "hubId": "1260"
+    },
+    {
+      "name": "WhiteCore",
+      "hubId": "1313"
+    },
+    {
+      "name": "True Items",
+      "hubId": "1651"
+    },
+    {
+      "name": "Use Items Anywhere",
+      "hubId": "1416"
+    },
+    {
+      "name": "Useless Key Blacklist",
+      "hubId": "760"
+    },
+    {
+      "name": "De-Clutterer - Updated by CJ",
+      "hubId": "1785"
+    },
+    {
+      "name": "Never Lose Equipments",
+      "hubId": "262"
+    },
+    {
+      "name": "Food&amp;Drink trader",
+      "hubId": "356"
+    },
+    {
+      "name": "Limited Traders",
+      "hubId": "1638"
+    },
+    {
+      "name": "Alternative Trader Pics",
+      "hubId": "163"
+    },
+    {
+      "name": "Special Slots",
+      "hubId": "775"
+    },
+    {
+      "name": "ArmBandCore",
+      "hubId": "787"
+    },
+    {
+      "name": "BetterMeds Revised",
+      "hubId": "260"
+    },
+    {
+      "name": "Lock Picking Attorney Redux",
+      "hubId": "272"
+    },
+    {
+      "name": "Bigger Keytool",
+      "hubId": "259"
+    },
+    {
+      "name": "Medical SICC case (MICC)",
+      "hubId": "270"
+    },
+    {
+      "name": "VAI: Non-Realistic Tarkov Project",
+      "hubId": "1184"
+    },
+    {
+      "name": "MFAC Ammo",
+      "hubId": "1083"
+    },
+    {
+      "name": "Game Panel HUD",
+      "hubId": "652"
+    },
+    {
+      "name": "EFT Api",
+      "hubId": "1215"
+    },
+    {
+      "name": "Slightly Boosted Meds",
+      "hubId": "1786"
+    },
+    {
+      "name": "Item Info",
+      "hubId": "985"
+    },
+    {
+      "name": "Day Time Cultists",
+      "hubId": "1715"
+    },
+    {
+      "name": "PMCs Have EOD Account",
+      "hubId": "1407"
+    },
+    {
+      "name": "QuickTime",
+      "hubId": "1682"
+    },
+    {
+      "name": "PolitelyRemoveBeta",
+      "hubId": "1505"
+    },
+    {
+      "name": "Alter Extracts",
+      "hubId": "565"
+    },
+    {
+      "name": "Jiblet's Cargo Pants",
+      "hubId": "980"
+    },
+    {
+      "name": "Softcore (Proper Singleplayer Experience for SPT)",
+      "hubId": "998"
+    },
+    {
+      "name": "Unrestricted Plates",
+      "hubId": "1775"
+    },
+    {
+      "name": "bluehead's AIO Trader",
+      "hubId": "558"
+    },
+    {
+      "name": "SamSWAT's Fire Support - Arys Reloaded",
+      "hubId": "1654"
+    },
+    {
+      "name": "FEAR's Temporary Progressive Stash (3.8.0 temp)",
+      "hubId": "917"
+    },
+    {
+      "name": "Health per Level REBOOT",
+      "hubId": "1690"
+    },
+    {
+      "name": "MFAC Guns",
+      "hubId": "1135"
+    },
+    {
+      "name": "AI Limit",
+      "hubId": "793"
+    },
+    {
+      "name": "Welcome Gifts",
+      "hubId": "993"
+    },
+    {
+      "name": "Shiny Airdrop Guns!",
+      "hubId": "1572"
+    },
+    {
+      "name": "Two Slot Extended Mags",
+      "hubId": "1241"
+    },
+    {
+      "name": "AnyStand",
+      "hubId": "1512"
+    },
+    {
+      "name": "Like a Boss",
+      "hubId": "1756"
+    },
+    {
+      "name": "GFL2 CHARACTER and VOICE",
+      "hubId": "1030"
+    },
+    {
+      "name": "The Blacklist - flea market enhancements",
+      "hubId": "1012"
+    },
+    {
+      "name": "Weightless Ammo",
+      "hubId": "1688"
+    },
+    {
+      "name": "Quick Throw Grenades",
+      "hubId": "1695"
+    },
+    {
+      "name": "SandCore: FDE Retextures",
+      "hubId": "1379"
+    },
+    {
+      "name": "Open Sesame",
+      "hubId": "1660"
+    },
+    {
+      "name": "Easy Skill Options",
+      "hubId": "1518"
+    },
+    {
+      "name": "B.D.S.M. - BODY DISPOSAL SERVICE MAID",
+      "hubId": "1620"
+    },
+    {
+      "name": "Live Bitcoin Prices",
+      "hubId": "1767"
+    },
+    {
+      "name": "BatterySystem",
+      "hubId": "1295"
+    },
+    {
+      "name": "Munitions Expert (Reboot)",
+      "hubId": "1324"
+    },
+    {
+      "name": "Item Context Menu Extended",
+      "hubId": "1283"
+    },
+    {
+      "name": "Custom Interactions",
+      "hubId": "1278"
+    },
+    {
+      "name": "Magazine Inspector",
+      "hubId": "1236"
+    },
+    {
+      "name": "Item Attribute Fix",
+      "hubId": "1232"
+    },
+    {
+      "name": "Item Sell Price",
+      "hubId": "1230"
+    },
+    {
+      "name": "Exfil Flare Notification",
+      "hubId": "1739"
+    },
+    {
+      "name": "Freecam",
+      "hubId": "279"
+    },
+    {
+      "name": "Progressive Container",
+      "hubId": "1582"
+    },
+    {
+      "name": "Leaves ReLooted",
+      "hubId": "1603"
+    },
+    {
+      "name": "Dragon oF Dojima",
+      "hubId": "545"
+    },
+    {
+      "name": "Hultafors dead blow hammer",
+      "hubId": "1040"
+    },
+    {
+      "name": "Unda",
+      "hubId": "1643"
+    },
+    {
+      "name": "Remove Time Gate From Quests",
+      "hubId": "1653"
+    },
+    {
+      "name": "NewProfiles",
+      "hubId": "1354"
+    },
+    {
+      "name": "All The Clothes",
+      "hubId": "740"
+    },
+    {
+      "name": "Mag Tape",
+      "hubId": "1404"
+    },
+    {
+      "name": "Deadzone Updated",
+      "hubId": "1568"
+    },
+    {
+      "name": "Painter",
+      "hubId": "1412"
+    },
+    {
+      "name": "Low Budget Bullet Time",
+      "hubId": "841"
+    },
+    {
+      "name": "No Bush ESP",
+      "hubId": "903"
+    },
+    {
+      "name": "Level Rewards",
+      "hubId": "1080"
+    },
+    {
+      "name": "Roubles For All",
+      "hubId": "1745"
+    },
+    {
+      "name": "Reach Extender",
+      "hubId": "1758"
+    },
+    {
+      "name": "Lua's Auto Profile Backup (Updated)",
+      "hubId": "1143"
+    },
+    {
+      "name": "Door Randomizer",
+      "hubId": "1107"
+    },
+    {
+      "name": "Task List Fixes",
+      "hubId": "1114"
+    },
+    {
+      "name": "BigBrain",
+      "hubId": "1219"
+    },
+    {
+      "name": "BotDebug",
+      "hubId": "1242"
+    },
+    {
+      "name": "Equip From Weapon Rack",
+      "hubId": "1567"
+    },
+    {
+      "name": "Quest Tracker",
+      "hubId": "1574"
+    },
+    {
+      "name": "Deminvincibility",
+      "hubId": "1544"
+    },
+    {
+      "name": "Fps Unlocker",
+      "hubId": "1751"
+    },
+    {
+      "name": "Equal Loot 4 All",
+      "hubId": "1535"
+    },
+    {
+      "name": "Leaves Namelister",
+      "hubId": "1757"
+    },
+    {
+      "name": "Unbreakable keys",
+      "hubId": "1752"
+    },
+    {
+      "name": "Better Icons for mapgenie.io Tarkov Maps",
+      "hubId": "1055"
+    },
+    {
+      "name": "UwUifier",
+      "hubId": "1056"
+    },
+    {
+      "name": "LooseKeyModifier",
+      "hubId": "1097"
+    },
+    {
+      "name": "WarStyle Guns",
+      "hubId": "1741"
+    },
+    {
+      "name": "Pmc Trader Pic Replacer",
+      "hubId": "1494"
+    },
+    {
+      "name": "Erika",
+      "hubId": "1709"
+    },
+    {
+      "name": "MusicManiac's Advanced Quest Loader (MMAQL)",
+      "hubId": "1719"
+    },
+    {
+      "name": "Parent IDs Fixer",
+      "hubId": "1710"
+    },
+    {
+      "name": "Manual Flea Price Updater",
+      "hubId": "965"
+    },
+    {
+      "name": "Kiki-SmallTweaks",
+      "hubId": "533"
+    },
+    {
+      "name": "Kaeno-TraderScrolling",
+      "hubId": "1508"
+    },
+    {
+      "name": "Modded Ammo Balancing Patch (MABP)",
+      "hubId": "1730"
+    },
+    {
+      "name": "Bootlegger",
+      "hubId": "898"
+    },
+    {
+      "name": "Transfer loot into a container automatically",
+      "hubId": "1633"
+    },
+    {
+      "name": "CactusPie's Minimap",
+      "hubId": "1120"
+    },
+    {
+      "name": "Vasyl the Mercenary",
+      "hubId": "1647"
+    },
+    {
+      "name": "Fox - Ammo Duplicator",
+      "hubId": "1708"
+    },
+    {
+      "name": "SUPPLIER (FORKED)",
+      "hubId": "1694"
+    },
+    {
+      "name": "Operator Reno",
+      "hubId": "1705"
+    },
+    {
+      "name": "The Smuggler",
+      "hubId": "1697"
+    },
+    {
+      "name": "Fershte's Balance Patch",
+      "hubId": "220"
+    },
+    {
+      "name": "GearGal Equipment Shop",
+      "hubId": "544"
+    },
+    {
+      "name": "AR Shoppe Unlimited",
+      "hubId": "250"
+    },
+    {
+      "name": "AKGuy Super Shop",
+      "hubId": "401"
+    },
+    {
+      "name": "Extra Ammo For Everyone",
+      "hubId": "1199"
+    },
+    {
+      "name": "[DEPRECATED] Small Cases - Now With Fannypack!",
+      "hubId": "1318"
+    },
+    {
+      "name": "Valens-AIO",
+      "hubId": "741"
+    },
+    {
+      "name": "Nyn's Randomizer Mod",
+      "hubId": "971"
+    },
+    {
+      "name": "Snofielf's Balanced Night Vision",
+      "hubId": "961"
+    },
+    {
+      "name": "\"Jeovani\": Arms dealer or CIA Asset?",
+      "hubId": "1332"
+    },
+    {
+      "name": "Der Deutsche Prophet",
+      "hubId": "1685"
+    },
+    {
+      "name": "Make Val/VSS great again!",
+      "hubId": "1496"
+    },
+    {
+      "name": "EzFleaChange",
+      "hubId": "1691"
+    },
+    {
+      "name": "Prestige System Helper",
+      "hubId": "1344"
+    },
+    {
+      "name": "Reduced Barter Trades",
+      "hubId": "1672"
+    },
+    {
+      "name": "The crafter",
+      "hubId": "1659"
+    },
+    {
+      "name": "Captain",
+      "hubId": "1075"
+    },
+    {
+      "name": "Loot Randomiser",
+      "hubId": "909"
+    },
+    {
+      "name": "Priscilu Special Weapons",
+      "hubId": "839"
+    },
+    {
+      "name": "Definitive Retexture Immersion Project (DRIP)",
+      "hubId": "1210"
+    },
+    {
+      "name": "FAIR PRESET WITH BIGGER STASH",
+      "hubId": "1579"
+    },
+    {
+      "name": "A.E.S. (Ultimate Questing Traders) v0.4.4",
+      "hubId": "1183"
+    },
+    {
+      "name": "McDewgle's IBC (Immersive Body Cam) a ReShade preset",
+      "hubId": "1562"
+    },
+    {
+      "name": "No Barter Trade",
+      "hubId": "764"
+    },
+    {
+      "name": "Entry Point Selector",
+      "hubId": "1137"
+    },
+    {
+      "name": "Drunked Scavs",
+      "hubId": "1656"
+    },
+    {
+      "name": "Weapons And Attachments Customizer",
+      "hubId": "1284"
+    },
+    {
+      "name": "Singleplayer Balancing",
+      "hubId": "1665"
+    },
+    {
+      "name": "Ammo Information",
+      "hubId": "1666"
+    },
+    {
+      "name": "Equal Opportunity Hater",
+      "hubId": "1411"
+    },
+    {
+      "name": "alevesThings",
+      "hubId": "431"
+    },
+    {
+      "name": "IntelCenterUnlockFlea",
+      "hubId": "1655"
+    },
+    {
+      "name": "Craft Craft Craft",
+      "hubId": "1580"
+    },
+    {
+      "name": "Fast-Forward Search (FFS)",
+      "hubId": "1178"
+    },
+    {
+      "name": "Ms.Stola",
+      "hubId": "1516"
+    },
+    {
+      "name": "andre1337's Expansion Pack",
+      "hubId": "1646"
+    },
+    {
+      "name": "Fontaine's Recoil Overhaul",
+      "hubId": "953"
+    },
+    {
+      "name": "Mr. B the Bitcoin Trader",
+      "hubId": "1583"
+    },
+    {
+      "name": "Oskar The Baltic Smuggler",
+      "hubId": "1576"
+    },
+    {
+      "name": "Anastasia From Zenitco",
+      "hubId": "1553"
+    },
+    {
+      "name": "EFT Manager",
+      "hubId": "1598"
+    },
+    {
+      "name": "Recoil 2: an SPT-Realism edit",
+      "hubId": "1403"
+    },
+    {
+      "name": "Tron's The Little Drummer Boy (Fixed)",
+      "hubId": "1631"
+    },
+    {
+      "name": "Keep Your Equipment",
+      "hubId": "1517"
+    },
+    {
+      "name": "Custom inventory container priority",
+      "hubId": "1635"
+    },
+    {
+      "name": "Better Hit Reaction",
+      "hubId": "1172"
+    },
+    {
+      "name": "Camera Unsnap",
+      "hubId": "666"
+    },
+    {
+      "name": "Time-in-raid Tracker",
+      "hubId": "1217"
+    },
+    {
+      "name": "InternalErrors_'s Insurable Items",
+      "hubId": "868"
+    },
+    {
+      "name": "High-er Capacity Magazine Load Penalty Remover",
+      "hubId": "1621"
+    },
+    {
+      "name": "CocoLemon's IProject",
+      "hubId": "1213"
+    },
+    {
+      "name": "Keys required for quests",
+      "hubId": "1612"
+    },
+    {
+      "name": "NFS OST Music",
+      "hubId": "1486"
+    },
+    {
+      "name": "(OUTDATED, USE THE NEW ONE) Realism Gear Compatibility",
+      "hubId": "1536"
+    },
+    {
+      "name": "Weapon Repair XP Multiplier",
+      "hubId": "1617"
+    },
+    {
+      "name": "LiveLike settings for LootFuckery + ReLooted + L.E.W.D.S. + SVM",
+      "hubId": "1604"
+    },
+    {
+      "name": "BUMA (Bosses Use Meta Ammo)",
+      "hubId": "1337"
+    },
+    {
+      "name": "Andrudis QuestManiac",
+      "hubId": "755"
+    },
+    {
+      "name": "Special Life Uplifting Technologies (S.L.U.Ts)",
+      "hubId": "1566"
+    },
+    {
+      "name": "Weapon Properties Modification",
+      "hubId": "537"
+    },
+    {
+      "name": "Clockwork Orange inspired Tracks (for Adults only)",
+      "hubId": "1575"
+    },
+    {
+      "name": "Leaves Mixpack",
+      "hubId": "1573"
+    },
+    {
+      "name": "Kiki-AllTheBoss",
+      "hubId": "301"
+    },
+    {
+      "name": "Fontaine's Combat Stance Overhaul",
+      "hubId": "1098"
+    },
+    {
+      "name": "De-Hazardifier",
+      "hubId": "1563"
+    },
+    {
+      "name": "De-Clutterer",
+      "hubId": "1546"
+    },
+    {
+      "name": "Viktoriya - The Gambler Reupload",
+      "hubId": "1515"
+    },
+    {
+      "name": "Storage Expansion",
+      "hubId": "1571"
+    },
+    {
+      "name": "MaidTraiders",
+      "hubId": "639"
+    },
+    {
+      "name": "Hex's Custom \"SPEC-OPS\" Themed Stash Music",
+      "hubId": "641"
+    },
+    {
+      "name": "No Restrictions",
+      "hubId": "1558"
+    },
+    {
+      "name": "Algorithmic Barter Randomizer",
+      "hubId": "1437"
+    },
+    {
+      "name": "Pause",
+      "hubId": "1380"
+    },
+    {
+      "name": "Inventory Organizing Features",
+      "hubId": "1152"
+    },
+    {
+      "name": "DisableScavMode",
+      "hubId": "1330"
+    },
+    {
+      "name": "Zhang Yong's Le Funny Music Pack",
+      "hubId": "1499"
+    },
+    {
+      "name": "Balanced Overhaul Of Bullet Spawns (BOOBS)",
+      "hubId": "1339"
+    },
+    {
+      "name": "Traveler Map Config Edit",
+      "hubId": "1560"
+    },
+    {
+      "name": "Traveler",
+      "hubId": "1212"
+    },
+    {
+      "name": "Bobitec's MORE STIM INJECTORS",
+      "hubId": "1548"
+    },
+    {
+      "name": "Shoot The Door",
+      "hubId": "1554"
+    },
+    {
+      "name": "Modding Stats Helper",
+      "hubId": "1442"
+    },
+    {
+      "name": "Trader Modding",
+      "hubId": "1433"
+    },
+    {
+      "name": "The Broker",
+      "hubId": "1104"
+    },
+    {
+      "name": "BitsNBobs",
+      "hubId": "1556"
+    },
+    {
+      "name": "Kiki-HealthMultiplier",
+      "hubId": "346"
+    },
+    {
+      "name": "Kiki-ScavTweaks",
+      "hubId": "583"
+    },
+    {
+      "name": "Kiki-RemoveTediousQuestConditions",
+      "hubId": "507"
+    },
+    {
+      "name": "Kiki-MedTweaker",
+      "hubId": "459"
+    },
+    {
+      "name": "Kiki-DegradationRemover",
+      "hubId": "334"
+    },
+    {
+      "name": "Toasty All Quests Finished Kiki Repack",
+      "hubId": "273"
+    },
+    {
+      "name": "Kiki-AntigravArmbandRepack",
+      "hubId": "257"
+    },
+    {
+      "name": "Kiki-GrenadeTweaks",
+      "hubId": "182"
+    },
+    {
+      "name": "Kiki-TraderLevelTweeks",
+      "hubId": "181"
+    },
+    {
+      "name": "Take A Break",
+      "hubId": "671"
+    },
+    {
+      "name": "Reflex Sights Rework",
+      "hubId": "874"
+    },
+    {
+      "name": "Fire Support",
+      "hubId": "807"
+    },
+    {
+      "name": "FAUPI - HIDEOUT ARCHITECT",
+      "hubId": "548"
+    },
+    {
+      "name": "Search Open Containers",
+      "hubId": "1265"
+    },
+    {
+      "name": "Fin's AI Tweaks (FAIT)",
+      "hubId": "94"
+    },
+    {
+      "name": "Use Loose Loot",
+      "hubId": "1264"
+    },
+    {
+      "name": "MOAR Bots - Spawning/Difficulty",
+      "hubId": "1059"
+    },
+    {
+      "name": "Immersive Raids",
+      "hubId": "876"
+    },
+    {
+      "name": "Props Obviously Original Program (POOP)",
+      "hubId": "864"
+    },
+    {
+      "name": "Helicopter Crash Sites",
+      "hubId": "659"
+    },
+    {
+      "name": "FAUPI - MUNITIONS EXPERT",
+      "hubId": "554"
+    },
+    {
+      "name": "14.0 CONTENT PREVIEW - GUNS,GEAR,AMMO AND ATTACHMENTS ADDED",
+      "hubId": "1683"
+    },
+    {
+      "name": "Time &amp; Weather Changer",
+      "hubId": "487"
+    },
+    {
+      "name": "California Compliant weapons &amp; magazines",
+      "hubId": "1743"
+    },
+    {
+      "name": "Watch Animations",
+      "hubId": "1005"
+    },
+    {
+      "name": "AI Furry Trader Icons",
+      "hubId": "1276"
+    },
+    {
+      "name": "No More Mines",
+      "hubId": "847"
+    },
+    {
+      "name": "Clear Thermal Sights",
+      "hubId": "797"
+    },
+    {
+      "name": "NPC Spam Remover or Mod for the destruction of cringey redditor bait messages and for my preserving my sanity by not having to go into the server configs and changing it",
+      "hubId": "1492"
+    },
+    {
+      "name": "FU Inertia",
+      "hubId": "843"
+    },
+    {
+      "name": "Escape From Tarkov - SDK",
+      "hubId": "1011"
+    },
+    {
+      "name": "Extended Bot Spawnpoints",
+      "hubId": "754"
+    },
+    {
+      "name": "Artillery Support",
+      "hubId": "646"
+    },
+    {
+      "name": "Thermal Bundle",
+      "hubId": "1326"
+    },
+    {
+      "name": "Dynamic External Resolution Patch (DERP)",
+      "hubId": "1259"
+    },
+    {
+      "name": "Realistic MREs",
+      "hubId": "915"
+    },
+    {
+      "name": "Ukraines MM14 camouflage clothing bundle",
+      "hubId": "618"
+    },
+    {
+      "name": "CWX MASTERKEY",
+      "hubId": "590"
+    },
+    {
+      "name": "FN SCAR-H",
+      "hubId": "293"
+    },
+    {
+      "name": "Adrenaline",
+      "hubId": "860"
+    },
+    {
+      "name": "Realistic Plate System",
+      "hubId": "842"
+    },
+    {
+      "name": "Sixth Sense",
+      "hubId": "788"
+    },
+    {
+      "name": "UwU",
+      "hubId": "765"
+    },
+    {
+      "name": "Fenix's No AI ESP",
+      "hubId": "758"
+    },
+    {
+      "name": "Chomp-DisableFleaBlacklist",
+      "hubId": "541"
+    },
+    {
+      "name": "Anime Rear Sights",
+      "hubId": "482"
+    },
+    {
+      "name": "EFT Scope and Red Dot Sight Overhaul by Geff Hannigan",
+      "hubId": "469"
+    },
+    {
+      "name": "Rai's Hidden Caches",
+      "hubId": "1770"
+    },
+    {
+      "name": "POOP Variety",
+      "hubId": "873"
+    },
+    {
+      "name": "Alternative furry traders icons",
+      "hubId": "1701"
+    },
+    {
+      "name": "CWX BUSHWHACKER",
+      "hubId": "647"
+    },
+    {
+      "name": "MuchNeeded",
+      "hubId": "248"
+    },
+    {
+      "name": "Pause - Reupload",
+      "hubId": "1793"
+    },
+    {
+      "name": "SamSwat's - Helicopter Crash Sites - Remastered",
+      "hubId": "1588"
+    },
+    {
+      "name": "Better Lasers",
+      "hubId": "1529"
+    },
+    {
+      "name": "Test Map",
+      "hubId": "1274"
+    },
+    {
+      "name": "AT's Nanosuit",
+      "hubId": "1149"
+    },
+    {
+      "name": "QBZ-03 Chinese Rifle 5.56x45 Export Version",
+      "hubId": "1127"
+    },
+    {
+      "name": "PS2 BIOS Sounds",
+      "hubId": "1028"
+    },
+    {
+      "name": "Insurance+",
+      "hubId": "894"
+    },
+    {
+      "name": "Normalized Bots",
+      "hubId": "887"
+    },
+    {
+      "name": "CNN - CONTAINERS",
+      "hubId": "881"
+    },
+    {
+      "name": "GFL 2 Character",
+      "hubId": "470"
+    },
+    {
+      "name": "Hideout Architect",
+      "hubId": "355"
+    },
+    {
+      "name": "Lua's Spawn Rework",
+      "hubId": "291"
+    },
+    {
+      "name": "Inventory Organizing Features 3.8.0 Senko Edition Fix",
+      "hubId": "1781"
+    },
+    {
+      "name": "Item stash count in name",
+      "hubId": "1711"
+    },
+    {
+      "name": "Nooky's Custom Presets for SWAG",
+      "hubId": "1061"
+    },
+    {
+      "name": "Ukraine MM14 Clothing Port",
+      "hubId": "967"
+    },
+    {
+      "name": "Eyes of a Trader - view loot value",
+      "hubId": "956"
+    },
+    {
+      "name": "BetterLights-Lasers-Reboot",
+      "hubId": "799"
+    },
+    {
+      "name": "KcY - SeeItemValue",
+      "hubId": "551"
+    },
+    {
+      "name": "Better OKP-7",
+      "hubId": "289"
+    },
+    {
+      "name": "Ram Cleaner Fix",
+      "hubId": "1827"
+    },
+    {
+      "name": "Display Official Version",
+      "hubId": "1134"
+    },
+    {
+      "name": "Callsign",
+      "hubId": "1124"
+    },
+    {
+      "name": "Better Keys",
+      "hubId": "895"
+    },
+    {
+      "name": "Swag Variety",
+      "hubId": "882"
+    },
+    {
+      "name": "Ultimate Clear NVGs",
+      "hubId": "721"
+    },
+    {
+      "name": "Stalker Voices",
+      "hubId": "567"
+    },
+    {
+      "name": "Modular Night Vision Goggles",
+      "hubId": "391"
+    },
+    {
+      "name": "Lua's Flea Market Price Updater",
+      "hubId": "353"
+    },
+    {
+      "name": "Healing Autocancel",
+      "hubId": "1779"
+    },
+    {
+      "name": "Nikita vs. English - Bot Voice Line",
+      "hubId": "1456"
+    },
+    {
+      "name": "Realistic Lighting for EFT",
+      "hubId": "1429"
+    },
+    {
+      "name": "Algorithmic Quest Randomizer",
+      "hubId": "1409"
+    },
+    {
+      "name": "UN, Russia and SCAV Equipment (ex Russian military helmet and SCAV Equipment)",
+      "hubId": "1402"
+    },
+    {
+      "name": "Actual Sick SICC",
+      "hubId": "1397"
+    },
+    {
+      "name": "Lone_Simon's Server Fixes (Reboot)",
+      "hubId": "988"
+    },
+    {
+      "name": "Virtual's Custom Quests",
+      "hubId": "859"
+    },
+    {
+      "name": "The Double Agent",
+      "hubId": "714"
+    },
+    {
+      "name": "Path To Tarkov",
+      "hubId": "569"
+    },
+    {
+      "name": "CWX WEATHERPATCHER",
+      "hubId": "390"
+    },
+    {
+      "name": "Realistic FLIR Thermal Scope - 60Hz, 320*240px and Range",
+      "hubId": "1201"
+    },
+    {
+      "name": "Chinese Type 64 silenced submachine gun",
+      "hubId": "1136"
+    },
+    {
+      "name": "Handy Toolbox",
+      "hubId": "1129"
+    },
+    {
+      "name": "CWX DEBUGGINGTOOL",
+      "hubId": "1058"
+    },
+    {
+      "name": "Film Look for Tarkov (ReShade Preset)",
+      "hubId": "1013"
+    },
+    {
+      "name": "Increased FOV",
+      "hubId": "733"
+    },
+    {
+      "name": "Heckler &amp; Koch G36",
+      "hubId": "702"
+    },
+    {
+      "name": "Grenade Sprite",
+      "hubId": "664"
+    },
+    {
+      "name": "Increased HUD FOV",
+      "hubId": "481"
+    },
+    {
+      "name": "Ahegao Camo",
+      "hubId": "375"
+    },
+    {
+      "name": "DeHazardifier - Updated by CJ",
+      "hubId": "1784"
+    },
+    {
+      "name": "13.5 content preview - GEAR,ATTACHMENTS and AMMO ADDED!",
+      "hubId": "1394"
+    },
+    {
+      "name": "Gunsmith Presets UPDATED!",
+      "hubId": "1310"
+    },
+    {
+      "name": "T-90 Main Battle Tank",
+      "hubId": "1305"
+    },
+    {
+      "name": "GBRS Hydra Mounts",
+      "hubId": "1168"
+    },
+    {
+      "name": "UMP45",
+      "hubId": "1047"
+    },
+    {
+      "name": "M16A4-Remake",
+      "hubId": "914"
+    },
+    {
+      "name": "Color Coded Keys",
+      "hubId": "888"
+    },
+    {
+      "name": "BetterPK06-Reboot",
+      "hubId": "801"
+    },
+    {
+      "name": "[Deprecated] LukewarmPudding's BlackGear",
+      "hubId": "743"
+    },
+    {
+      "name": "Kobra's AIO",
+      "hubId": "586"
+    },
+    {
+      "name": "L85/SA80 A2 British Assault Rifle",
+      "hubId": "332"
+    },
+    {
+      "name": "Responsive Fence",
+      "hubId": "235"
+    },
+    {
+      "name": "Fold Everything Again",
+      "hubId": "227"
+    },
+    {
+      "name": "Modding Stats Helper - by wara - for 3.8.0",
+      "hubId": "1814"
+    },
+    {
+      "name": "GaaxWeapons Mod - Port",
+      "hubId": "1676"
+    },
+    {
+      "name": "Adjustable Trader Rows",
+      "hubId": "1408"
+    },
+    {
+      "name": "AMOGUS",
+      "hubId": "1382"
+    },
+    {
+      "name": "Boss Feminization ♂→♀",
+      "hubId": "1205"
+    },
+    {
+      "name": "Deadly Blades",
+      "hubId": "1106"
+    },
+    {
+      "name": "RSh-12 12.7x55mm Revolver",
+      "hubId": "922"
+    },
+    {
+      "name": "Gunsmith-Reboot",
+      "hubId": "802"
+    },
+    {
+      "name": "Goggles++",
+      "hubId": "751"
+    },
+    {
+      "name": "Leupold D-EVO",
+      "hubId": "679"
+    },
+    {
+      "name": "CWX DESHARPENER",
+      "hubId": "526"
+    },
+    {
+      "name": "GFL Voice",
+      "hubId": "490"
+    },
+    {
+      "name": "Doc's Gangstalker Spawn Config",
+      "hubId": "410"
+    },
+    {
+      "name": "Bread and Butter - Fixed for ver 2.*",
+      "hubId": "406"
+    },
+    {
+      "name": "ClearVision",
+      "hubId": "392"
+    },
+    {
+      "name": "KMC-WEAPONS",
+      "hubId": "330"
+    },
+    {
+      "name": "Benelli M4 Super 90 [M1014]",
+      "hubId": "245"
+    },
+    {
+      "name": "ZeroTimes",
+      "hubId": "178"
+    },
+    {
+      "name": "JoshJ5Hawk's Super Items",
+      "hubId": "173"
+    },
+    {
+      "name": "Kiki-BiggerStash",
+      "hubId": "79"
+    },
+    {
+      "name": "BrightLasers",
+      "hubId": "1880"
+    },
+    {
+      "name": "Watch Animations - Updated",
+      "hubId": "1801"
+    },
+    {
+      "name": "Instant Repeatables",
+      "hubId": "1797"
+    },
+    {
+      "name": "WinterMode",
+      "hubId": "1783"
+    },
+    {
+      "name": "DRIP Legacy Collection",
+      "hubId": "1679"
+    },
+    {
+      "name": "Obdolbos 3",
+      "hubId": "1524"
+    },
+    {
+      "name": "The Reisen",
+      "hubId": "1342"
+    },
+    {
+      "name": "A-TACS FG Clothing &amp; Gear",
+      "hubId": "1329"
+    },
+    {
+      "name": "MFAC Red MDR",
+      "hubId": "1319"
+    },
+    {
+      "name": "Framesaver",
+      "hubId": "1151"
+    },
+    {
+      "name": "Return of the Sniper Scav",
+      "hubId": "1105"
+    },
+    {
+      "name": "Experience Forever",
+      "hubId": "1095"
+    },
+    {
+      "name": "SPT Realism Ammo Stats",
+      "hubId": "955"
+    },
+    {
+      "name": "Additional Gear - Vanilla Extension",
+      "hubId": "944"
+    },
+    {
+      "name": "Modular NVGs (updated)",
+      "hubId": "884"
+    },
+    {
+      "name": "Kiki-DontTalkToMe",
+      "hubId": "875"
+    },
+    {
+      "name": "Select Entry Point",
+      "hubId": "582"
+    },
+    {
+      "name": "Kiki-CameraRecoilRemover",
+      "hubId": "345"
+    },
+    {
+      "name": "BALANCED MEDS",
+      "hubId": "303"
+    },
+    {
+      "name": "Duty Exoskeleton",
+      "hubId": "287"
+    },
+    {
+      "name": "NoSaveOnDeath",
+      "hubId": "1557"
+    },
+    {
+      "name": "Additional Gear - Black Module, Armored Vests",
+      "hubId": "1520"
+    },
+    {
+      "name": "Color Converter API",
+      "hubId": "1509"
+    },
+    {
+      "name": "EFT Controller Config (Steam, XBOX One)",
+      "hubId": "1448"
+    },
+    {
+      "name": "Plastic card.",
+      "hubId": "1427"
+    },
+    {
+      "name": "Health Per Level",
+      "hubId": "1423"
+    },
+    {
+      "name": "Kalashnikov AK-12 5.45x39 Assault Rifle",
+      "hubId": "1385"
+    },
+    {
+      "name": "Deadzone",
+      "hubId": "1381"
+    },
+    {
+      "name": "M14 Rifle",
+      "hubId": "1162"
+    },
+    {
+      "name": "Task Sort Fix",
+      "hubId": "1113"
+    },
+    {
+      "name": "No No Zone",
+      "hubId": "1045"
+    },
+    {
+      "name": "Medical Specials",
+      "hubId": "1043"
+    },
+    {
+      "name": "EZLights",
+      "hubId": "959"
+    },
+    {
+      "name": "NVIDIA DLSS Replacer",
+      "hubId": "877"
+    },
+    {
+      "name": "White Phosphor",
+      "hubId": "761"
+    },
+    {
+      "name": "Helmet Lights",
+      "hubId": "756"
+    },
+    {
+      "name": "ByeByeBlackFilter",
+      "hubId": "665"
+    },
+    {
+      "name": "Priscilu AiMate",
+      "hubId": "603"
+    },
+    {
+      "name": "Ereshkigal-AllinOneMod",
+      "hubId": "592"
+    },
+    {
+      "name": "Custom Main Menu Music",
+      "hubId": "589"
+    },
+    {
+      "name": "Scav Karma Expanded",
+      "hubId": "580"
+    },
+    {
+      "name": "SPO - Single Player Overhaul",
+      "hubId": "574"
+    },
+    {
+      "name": "Welcome Messages",
+      "hubId": "473"
+    },
+    {
+      "name": "AS VAL MOD.3",
+      "hubId": "403"
+    },
+    {
+      "name": "KMC-CORE",
+      "hubId": "125"
+    },
+    {
+      "name": "PS2 BIOS SOUNDS REUPLOADED",
+      "hubId": "1806"
+    },
+    {
+      "name": "Paulovs Shared Stash Trader",
+      "hubId": "1805"
+    },
+    {
+      "name": "InfMeds",
+      "hubId": "1791"
+    },
+    {
+      "name": "Loadout Terminal",
+      "hubId": "1684"
+    },
+    {
+      "name": "Ram Cleaner Fix",
+      "hubId": "1662"
+    },
+    {
+      "name": "Gilded Key Storage - Revised",
+      "hubId": "1521"
+    },
+    {
+      "name": "GoofySounds - Bot Voice Chat",
+      "hubId": "1495"
+    },
+    {
+      "name": "Kalashnikov PKM &amp; PKP 7.62x54R Machine Guns",
+      "hubId": "1396"
+    },
+    {
+      "name": "Set Speed - Set Player Speed with Hotkeys",
+      "hubId": "1364"
+    },
+    {
+      "name": "Realistic REAP-IR Thermal Scope - 60Hz, 640*320px",
+      "hubId": "1302"
+    },
+    {
+      "name": "Tan AK-74",
+      "hubId": "1289"
+    },
+    {
+      "name": "Color and Dot Modification for Accurate Circular Radar Standalone",
+      "hubId": "1285"
+    },
+    {
+      "name": "Heartbeat Sensor",
+      "hubId": "1204"
+    },
+    {
+      "name": "Auto Start Script for SPT",
+      "hubId": "1117"
+    },
+    {
+      "name": "SPT-AKI Alternative Launcher",
+      "hubId": "1007"
+    },
+    {
+      "name": "Configure AI Voices",
+      "hubId": "972"
+    },
+    {
+      "name": "JoshJ5Hawk Loot Boxes",
+      "hubId": "935"
+    },
+    {
+      "name": "SR-2M 'Veresk' 9x21mm Submachine Gun",
+      "hubId": "927"
+    },
+    {
+      "name": "Bad Dragon Armband",
+      "hubId": "924"
+    },
+    {
+      "name": "AT's C.A.R. SMG",
+      "hubId": "919"
+    },
+    {
+      "name": "Halloween 2022 Trader Icons",
+      "hubId": "862"
+    },
+    {
+      "name": "Extended Stock Slots (UNAVAILABLE)",
+      "hubId": "856"
+    },
+    {
+      "name": "Death Trader",
+      "hubId": "845"
+    },
+    {
+      "name": "Program K (Publicly discontinued)",
+      "hubId": "830"
+    },
+    {
+      "name": "Yim's Recoil Tweaks Unofficial update",
+      "hubId": "710"
+    },
+    {
+      "name": "Fin's Automatically Balance Levels to Equal Skills",
+      "hubId": "468"
+    },
+    {
+      "name": "Fin's AI Loader (FAIL)",
+      "hubId": "458"
+    },
+    {
+      "name": "Vepr-12 \"Molot\"",
+      "hubId": "414"
+    },
+    {
+      "name": "Choose the weather",
+      "hubId": "385"
+    },
+    {
+      "name": "JustNU Core",
+      "hubId": "378"
+    },
+    {
+      "name": "GIAT FAMAS",
+      "hubId": "341"
+    },
+    {
+      "name": "KMC Gear",
+      "hubId": "331"
+    },
+    {
+      "name": "Lua's Custom Spawn Points",
+      "hubId": "323"
+    },
+    {
+      "name": "Wolfik's Heavy Trooper",
+      "hubId": "212"
+    },
+    {
+      "name": "Bandana Of Protection",
+      "hubId": "142"
+    },
+    {
+      "name": "Speed Loader",
+      "hubId": "98"
+    },
+    {
+      "name": "Dakar2008's JSON Editor",
+      "hubId": "1680"
+    },
+    {
+      "name": "GMod Russian Error",
+      "hubId": "1559"
+    },
+    {
+      "name": "CNN - GBRS Hydra Mount",
+      "hubId": "1542"
+    },
+    {
+      "name": "Igor - Grenade Trader with Quest",
+      "hubId": "1540"
+    },
+    {
+      "name": "Modular - Medieval Armors",
+      "hubId": "1527"
+    },
+    {
+      "name": "Lilly EFT Plugin",
+      "hubId": "1475"
+    },
+    {
+      "name": "[Archived] Tube Adjustment System",
+      "hubId": "1439"
+    },
+    {
+      "name": "RoundPreset",
+      "hubId": "1435"
+    },
+    {
+      "name": "MeowShader - A stylishly beautiful ReShade preset.",
+      "hubId": "1432"
+    },
+    {
+      "name": "CWX GrassCutter",
+      "hubId": "1376"
+    },
+    {
+      "name": "Proportional Bosses",
+      "hubId": "1307"
+    },
+    {
+      "name": "JAK-12 Automatic Shotgun",
+      "hubId": "1234"
+    },
+    {
+      "name": "Energy Gun Shield",
+      "hubId": "1211"
+    },
+    {
+      "name": "Grenade Trajectory Prediction Line",
+      "hubId": "1207"
+    },
+    {
+      "name": "Katarina Black",
+      "hubId": "1200"
+    },
+    {
+      "name": "Sensible Universal Weapon Mods",
+      "hubId": "1148"
+    },
+    {
+      "name": "B.D.S.M. - Body Disposal Service Maid",
+      "hubId": "1131"
+    },
+    {
+      "name": "Comprehensive Ammunition Tweaker",
+      "hubId": "1130"
+    },
+    {
+      "name": "Hollywood's Soviet Doomer Playlist",
+      "hubId": "1914"
+    },
+    {
+      "name": "$uicideboy$ Playlist",
+      "hubId": "1913"
+    },
+    {
+      "name": "Touhou Stack Music Pack",
+      "hubId": "1912"
+    },
+    {
+      "name": "kmyuhkyuk's SKIN HIDE",
+      "hubId": "1911"
+    },
+    {
+      "name": "Module-AdditionalClothing",
+      "hubId": "1909"
+    },
+    {
+      "name": "Module-BlackGear",
+      "hubId": "1908"
+    },
+    {
+      "name": "Module-TanGear",
+      "hubId": "1907"
+    },
+    {
+      "name": "DJ Core API",
+      "hubId": "1905"
+    },
+    {
+      "name": "Speed Load",
+      "hubId": "1902"
+    },
+    {
+      "name": "Environment Replace",
+      "hubId": "1895"
+    },
+    {
+      "name": "KIKI-ANTIGRAVARMBANDREPACK",
+      "hubId": "1894"
+    },
+    {
+      "name": "SamSwat's EOTECH VUDU OVERHAUL - Reupload",
+      "hubId": "1892"
+    },
+    {
+      "name": "Penguin's Seal Drip",
+      "hubId": "1891"
+    },
+    {
+      "name": "Penguin's FTHS 2 Pack",
+      "hubId": "1890"
+    },
+    {
+      "name": "BOBITEC'S MORE STIM INJECTORS 1.1.2 (Re-Uploaded)",
+      "hubId": "1882"
+    },
+    {
+      "name": "TCG to SPT-Realism compatibility",
+      "hubId": "1881"
+    },
+    {
+      "name": "Add Presets to Fence",
+      "hubId": "1879"
+    },
+    {
+      "name": "Shredder's Tweaks",
+      "hubId": "1875"
+    },
+    {
+      "name": "BotMonitor (CWX's Debugging Tool)",
+      "hubId": "1874"
+    },
+    {
+      "name": "MapFrames",
+      "hubId": "1863"
+    },
+    {
+      "name": "Start Collector Early",
+      "hubId": "1857"
+    },
+    {
+      "name": "Umineko Music Pack",
+      "hubId": "1855"
+    },
+    {
+      "name": "Black Lagoon Music Pack",
+      "hubId": "1854"
+    },
+    {
+      "name": "Jormungand Music Pack",
+      "hubId": "1853"
+    },
+    {
+      "name": "RichaadEB Touhou Music Pack",
+      "hubId": "1852"
+    },
+    {
+      "name": "Shibayan Records Music Pack",
+      "hubId": "1851"
+    },
+    {
+      "name": "Undead Corporation Music Pack",
+      "hubId": "1850"
+    },
+    {
+      "name": "Unlucky Morpheus Music Pack",
+      "hubId": "1849"
+    },
+    {
+      "name": "Touhou Under the Moonlight Music Pack",
+      "hubId": "1848"
+    },
+    {
+      "name": "Touhou Disappearance of Gensyoko",
+      "hubId": "1847"
+    },
+    {
+      "name": "Touhou OST Music Pack",
+      "hubId": "1846"
+    },
+    {
+      "name": "The Hu Music Pack",
+      "hubId": "1845"
+    },
+    {
+      "name": "Touhou Jazz Pack",
+      "hubId": "1844"
+    },
+    {
+      "name": "Touhou Snug Space Music Pack",
+      "hubId": "1843"
+    },
+    {
+      "name": "Touhou SWINGHOLIC Music Pack",
+      "hubId": "1842"
+    },
+    {
+      "name": "John Wick 1-4 Music Pack",
+      "hubId": "1841"
+    },
+    {
+      "name": "Modern Warfare 2023 Music Pack",
+      "hubId": "1840"
+    },
+    {
+      "name": "MW 2019 Music Pack",
+      "hubId": "1839"
+    },
+    {
+      "name": "Black Ops Cold War Music Pack",
+      "hubId": "1838"
+    },
+    {
+      "name": "Black Ops Combined Music Pack",
+      "hubId": "1837"
+    },
+    {
+      "name": "Memories of Phantasm Music Pack",
+      "hubId": "1836"
+    },
+    {
+      "name": "Geneburn Music Pack",
+      "hubId": "1835"
+    },
+    {
+      "name": "Arknights Music Pack",
+      "hubId": "1834"
+    },
+    {
+      "name": "Girls Frontline Music Pack",
+      "hubId": "1833"
+    },
+    {
+      "name": "STALKER Music Pack",
+      "hubId": "1832"
+    },
+    {
+      "name": "MEGA MEDS INJECTOR",
+      "hubId": "1831"
+    },
+    {
+      "name": "Custom Launcher Backgrounds",
+      "hubId": "1829"
+    },
+    {
+      "name": "Custom Trader Avatars",
+      "hubId": "1828"
+    },
+    {
+      "name": "SAMSWAT'S CALL OF DUTY: MW - MIL-SIM: CTSFO 1",
+      "hubId": "1825"
+    },
+    {
+      "name": "RheddElBozo's Realistic Trader icons",
+      "hubId": "1823"
+    },
+    {
+      "name": "The Poor Planner's Escape",
+      "hubId": "1820"
+    },
+    {
+      "name": "DisableScavMode egboggied",
+      "hubId": "1815"
+    },
+    {
+      "name": "custom icon pack",
+      "hubId": "1811"
+    },
+    {
+      "name": "SAMSWAT'S CALL OF DUTY: WARZONE - MIL-SIM: PARARESCUE",
+      "hubId": "1808"
+    },
+    {
+      "name": "SAMSWAT'S CALL OF DUTY: WARZONE - MIL-SIM: JW GROM",
+      "hubId": "1807"
+    },
+    {
+      "name": "Toy Gun from update 14.5",
+      "hubId": "1800"
+    },
+    {
+      "name": "Warzone Cat Ears",
+      "hubId": "1792"
+    },
+    {
+      "name": "Kawaii Trader Icons",
+      "hubId": "1782"
+    },
+    {
+      "name": "Tarkov Midcore Server",
+      "hubId": "1778"
+    },
+    {
+      "name": "Women of War (WOW) Trader Icons",
+      "hubId": "1777"
+    },
+    {
+      "name": "[TANO] Thermal And Nvg Overhaul",
+      "hubId": "1776"
+    },
+    {
+      "name": "Better Thermals Remix - AKI 3.8.0",
+      "hubId": "1774"
+    },
+    {
+      "name": "THE PATHOGEN - RESILIENCE SKILL (beta)",
+      "hubId": "1771"
+    },
+    {
+      "name": "Kiki-EZPreset2Assort",
+      "hubId": "1734"
+    },
+    {
+      "name": "NoVmBr Mix",
+      "hubId": "1732"
+    },
+    {
+      "name": "SoftCoreLite",
+      "hubId": "1729"
+    },
+    {
+      "name": "Fast healing",
+      "hubId": "1723"
+    },
+    {
+      "name": "Grimdark Menu Music",
+      "hubId": "1713"
+    },
+    {
+      "name": "Le Castle Vania Music Pack",
+      "hubId": "1706"
+    },
+    {
+      "name": "Jeovani/Maxim Double-Pack Hack",
+      "hubId": "1703"
+    },
+    {
+      "name": "Maxim: Bear Exclusive Trader/Quests",
+      "hubId": "1700"
+    },
+    {
+      "name": "Hideout Helper",
+      "hubId": "1698"
+    },
+    {
+      "name": "667 Music Pack",
+      "hubId": "1686"
+    },
+    {
+      "name": "Gigabeef's \"Tarkov Movie\" soundtrack replacer",
+      "hubId": "1681"
+    },
+    {
+      "name": "PresetsX",
+      "hubId": "1675"
+    },
+    {
+      "name": "Aim Punch Tweaker",
+      "hubId": "1648"
+    },
+    {
+      "name": "Make STM9 Great Again!",
+      "hubId": "1639"
+    },
+    {
+      "name": "HK-417D 7.62X51 BATTLE RIFLE 1.0.3",
+      "hubId": "1628"
+    },
+    {
+      "name": "AUG ATTACHMENT PACK 1.0.0",
+      "hubId": "1627"
+    },
+    {
+      "name": "NO MOUSE SENSITIVITY PENALTY IN RAID!",
+      "hubId": "1618"
+    },
+    {
+      "name": "Leaves - Low End Weapon-spawn Drop-rate Searcher (L.E.W.D.S.)",
+      "hubId": "1589"
+    },
+    {
+      "name": "Eastern European Brutalism Music Pack",
+      "hubId": "1577"
+    },
+    {
+      "name": "WeaponRepairXPMultiplier",
+      "hubId": "1569"
+    },
+    {
+      "name": "Krinkov's Kustom Music Pack",
+      "hubId": "1564"
+    },
+    {
+      "name": "Custom Spawn Point Maker Reuploaded",
+      "hubId": "1552"
+    },
+    {
+      "name": "Stackable Grenades",
+      "hubId": "1543"
+    },
+    {
+      "name": "All items examined",
+      "hubId": "1538"
+    },
+    {
+      "name": "Remove Ergo Penalty",
+      "hubId": "1531"
+    },
+    {
+      "name": "Mouse Penalty Fix",
+      "hubId": "1530"
+    },
+    {
+      "name": "Modular - Starfleet Security Armor",
+      "hubId": "1528"
+    },
+    {
+      "name": "Alpha-Like Weapons",
+      "hubId": "1526"
+    },
+    {
+      "name": "Config Editor [SPT Launcher]",
+      "hubId": "1525"
+    },
+    {
+      "name": "Clear Icon Cache",
+      "hubId": "1519"
+    },
+    {
+      "name": "NoQuestingWaiting",
+      "hubId": "1513"
+    },
+    {
+      "name": "Parkside",
+      "hubId": "1506"
+    },
+    {
+      "name": "Category Traders",
+      "hubId": "1498"
+    },
+    {
+      "name": "JUSTNU'S ADDITIONAL CLOTHING PORT PACK",
+      "hubId": "1491"
+    },
+    {
+      "name": "STINKY Evacuation Trader Mod, And Examples Settings To NPC",
+      "hubId": "1489"
+    },
+    {
+      "name": "MissinginAction's Arena Music",
+      "hubId": "1478"
+    },
+    {
+      "name": "Ospreys Protect Stоmach",
+      "hubId": "1473"
+    },
+    {
+      "name": "Luxury From Tarkov",
+      "hubId": "1465"
+    },
+    {
+      "name": "Street Fashion Of Tarkov",
+      "hubId": "1464"
+    },
+    {
+      "name": "Reversed/Wrong sided BCM grip",
+      "hubId": "1462"
+    },
+    {
+      "name": "Repair Buff Chance",
+      "hubId": "1461"
+    },
+    {
+      "name": "No Repair Degradation",
+      "hubId": "1460"
+    },
+    {
+      "name": "No Headshots",
+      "hubId": "1459"
+    },
+    {
+      "name": "No Construction Time",
+      "hubId": "1458"
+    },
+    {
+      "name": "lave-notimegates",
+      "hubId": "1457"
+    },
+    {
+      "name": "Lilly-EFT-mod",
+      "hubId": "1454"
+    },
+    {
+      "name": "KCH ModPack port",
+      "hubId": "1452"
+    },
+    {
+      "name": "Plague's Quiet Rain",
+      "hubId": "1451"
+    },
+    {
+      "name": "Gran Turismo 1-5 Music Pack",
+      "hubId": "1445"
+    },
+    {
+      "name": "[Archived] Rail Adjustment System",
+      "hubId": "1441"
+    },
+    {
+      "name": "Payday Mask + 1",
+      "hubId": "1438"
+    },
+    {
+      "name": "Voiced Tarkov OST Music Pack",
+      "hubId": "1434"
+    },
+    {
+      "name": "Kinda compatibility",
+      "hubId": "1425"
+    },
+    {
+      "name": "Custom Paint \"service\"",
+      "hubId": "1405"
+    },
+    {
+      "name": "Lua's Custom Spawn Points (Updated) + Extended Bot Spawnpoints",
+      "hubId": "1399"
+    },
+    {
+      "name": "MP-43 12ga Sawed-off Double-barrel Shotgun",
+      "hubId": "1395"
+    },
+    {
+      "name": "Barter Trades",
+      "hubId": "1391"
+    },
+    {
+      "name": "13.5 Content Port (AIO soon TM)",
+      "hubId": "1388"
+    },
+    {
+      "name": "Tokarev SVT-40 &amp; AVT-40 7.62x54R Rifle",
+      "hubId": "1384"
+    },
+    {
+      "name": "Tyrian's EFT SDK Examples and Files",
+      "hubId": "1383"
+    },
+    {
+      "name": "LukewarmPudding's BlackGear (Deprecated)",
+      "hubId": "1373"
+    },
+    {
+      "name": "Quest Music Remover",
+      "hubId": "1368"
+    },
+    {
+      "name": "Replica Voice lines for Amand's Goofy Sounds",
+      "hubId": "1365"
+    },
+    {
+      "name": "FixHighLightMesh",
+      "hubId": "1355"
+    },
+    {
+      "name": "Sayaka's Items",
+      "hubId": "1350"
+    },
+    {
+      "name": "NERF GUNZ",
+      "hubId": "1323"
+    },
+    {
+      "name": "The Dealer: An Arms Trader",
+      "hubId": "1322"
+    },
+    {
+      "name": "sp_construct",
+      "hubId": "1316"
+    },
+    {
+      "name": "sp_flatgrass",
+      "hubId": "1315"
+    },
+    {
+      "name": "PMC Skill Editor",
+      "hubId": "1312"
+    },
+    {
+      "name": "Fun Settings",
+      "hubId": "1311"
+    },
+    {
+      "name": "Moar - BotBrainSwitcher",
+      "hubId": "1309"
+    },
+    {
+      "name": "Construction",
+      "hubId": "1308"
+    },
+    {
+      "name": "AHK moveclick script",
+      "hubId": "1306"
+    },
+    {
+      "name": "WEEB TRADERS REVIVAL",
+      "hubId": "1304"
+    },
+    {
+      "name": "Immersive Music Pack",
+      "hubId": "1297"
+    },
+    {
+      "name": "Metal Tunes",
+      "hubId": "1282"
+    },
+    {
+      "name": "Unrestricted Jailbreak",
+      "hubId": "1262"
+    },
+    {
+      "name": "Better Ammo",
+      "hubId": "1253"
+    },
+    {
+      "name": "Max &amp; Unlock All Traders",
+      "hubId": "1252"
+    },
+    {
+      "name": "Everything Examined",
+      "hubId": "1251"
+    },
+    {
+      "name": "SNACC-Pouch (SNACCPACK)",
+      "hubId": "1246"
+    },
+    {
+      "name": "Silencer Properties Modification",
+      "hubId": "1240"
+    },
+    {
+      "name": "AdrenalineRush",
+      "hubId": "1239"
+    },
+    {
+      "name": "M1911 Centennial Edition",
+      "hubId": "1235"
+    },
+    {
+      "name": "RepairConfig",
+      "hubId": "1231"
+    },
+    {
+      "name": "Level Based Maps HARDCORE",
+      "hubId": "1229"
+    },
+    {
+      "name": "G28 Black NTR (Not Texture Replacement edition)",
+      "hubId": "1228"
+    },
+    {
+      "name": "MP7A2 BLACKED",
+      "hubId": "1226"
+    },
+    {
+      "name": "M9A3 BLACKED",
+      "hubId": "1224"
+    },
+    {
+      "name": "FullAutoSTM",
+      "hubId": "1221"
+    },
+    {
+      "name": "UNSC Equipment",
+      "hubId": "1218"
+    },
+    {
+      "name": "G28 BLACKED",
+      "hubId": "1216"
+    },
+    {
+      "name": "FDE Mags",
+      "hubId": "1206"
+    },
+    {
+      "name": "Buster AP (9x19) [ARCHIVED]",
+      "hubId": "1203"
+    },
+    {
+      "name": "Titanium Silver [ARCHIVED]",
+      "hubId": "1202"
+    },
+    {
+      "name": "The Black Beard",
+      "hubId": "1193"
+    },
+    {
+      "name": "ALT IMG",
+      "hubId": "1189"
+    },
+    {
+      "name": "(BUBA) Bots use better ammo",
+      "hubId": "1187"
+    },
+    {
+      "name": "Marauders Equipment",
+      "hubId": "1186"
+    },
+    {
+      "name": "D.U.D.S.",
+      "hubId": "1180"
+    },
+    {
+      "name": "Fat Recoil.",
+      "hubId": "1177"
+    },
+    {
+      "name": "Jehree's Toolkit (JTK)",
+      "hubId": "1175"
+    },
+    {
+      "name": "Only pistol, good armor and fashion clothes.",
+      "hubId": "1171"
+    },
+    {
+      "name": "Customizable Flea Market",
+      "hubId": "1167"
+    },
+    {
+      "name": "Customizabled Nerfed Recoil",
+      "hubId": "1165"
+    },
+    {
+      "name": "KRISS Vector .308 assault rifle",
+      "hubId": "1160"
+    },
+    {
+      "name": "Tracer (Updated)",
+      "hubId": "1156"
+    },
+    {
+      "name": "S.P.A.W.N",
+      "hubId": "1150"
+    },
+    {
+      "name": "Smol PP (Profile Porter)",
+      "hubId": "1146"
+    },
+    {
+      "name": "Reduced Weapon Recoil",
+      "hubId": "1145"
+    },
+    {
+      "name": "Jehree's Custom Item Case Framework",
+      "hubId": "1144"
+    },
+    {
+      "name": "MultiCam Arid Gear and Clothing",
+      "hubId": "1142"
+    },
+    {
+      "name": "Jehree's Path To Tarkov Overhaul (FORCED TRAVEL)",
+      "hubId": "1133"
+    },
+    {
+      "name": "Jehree's Path To Tarkov Overhaul (STANDARD EDITION)",
+      "hubId": "1132"
+    },
+    {
+      "name": "SPT Realism - Retexture Support",
+      "hubId": "1128"
+    },
+    {
+      "name": "(A.W.S.M C.O.C) All Weapons and Some Meds Craftable Over Configs",
+      "hubId": "1126"
+    },
+    {
+      "name": "Black Masks",
+      "hubId": "1125"
+    },
+    {
+      "name": "MultiCam Tropic Gear and Clothing",
+      "hubId": "1118"
+    },
+    {
+      "name": "AI generated chibi/anime traders",
+      "hubId": "1108"
+    },
+    {
+      "name": "Universal Ammo",
+      "hubId": "1101"
+    },
+    {
+      "name": "Extraction Based Scav Timer",
+      "hubId": "1100"
+    },
+    {
+      "name": "The Labs Challenge",
+      "hubId": "1091"
+    },
+    {
+      "name": "SPT Level Based Maps",
+      "hubId": "1089"
+    },
+    {
+      "name": "S1NK0's KeyMaster Trader",
+      "hubId": "1087"
+    },
+    {
+      "name": "Grapple Gun (GG)",
+      "hubId": "1085"
+    },
+    {
+      "name": "More Stim Injectors",
+      "hubId": "1084"
+    },
+    {
+      "name": "Item Tweaker",
+      "hubId": "1079"
+    },
+    {
+      "name": "Valens-AmmoOverhaul",
+      "hubId": "1072"
+    },
+    {
+      "name": "Itemcloak",
+      "hubId": "1070"
+    },
+    {
+      "name": "JBirdZ-Customizable Backpack Sizes for SVM.",
+      "hubId": "1068"
+    },
+    {
+      "name": "Immersive Trader Icons",
+      "hubId": "1066"
+    },
+    {
+      "name": "Valens-RecoilReduction",
+      "hubId": "1065"
+    },
+    {
+      "name": "Fontaine's Anti Cheat (FAC)",
+      "hubId": "1064"
+    },
+    {
+      "name": "Better Spawns Variety",
+      "hubId": "1053"
+    },
+    {
+      "name": "Custom Spawns for Streets (Bots in Chek15 and Post Office Apartments)",
+      "hubId": "1052"
+    },
+    {
+      "name": "Protective Propital",
+      "hubId": "1050"
+    },
+    {
+      "name": "Force Difficulty Setting",
+      "hubId": "1049"
+    },
+    {
+      "name": "Less Overdamage",
+      "hubId": "1048"
+    },
+    {
+      "name": "No Ammunition Fragmentation (Configurable)",
+      "hubId": "1044"
+    },
+    {
+      "name": "Assault In Progress",
+      "hubId": "1038"
+    },
+    {
+      "name": "M18 Extension",
+      "hubId": "1037"
+    },
+    {
+      "name": "Lua's MagicSave patched for 3.5",
+      "hubId": "1036"
+    },
+    {
+      "name": "Nooky's Custom Spawns for BetterSpawnsPlus",
+      "hubId": "1032"
+    },
+    {
+      "name": "MultiCam Black Gear and Clothing",
+      "hubId": "1025"
+    },
+    {
+      "name": "Another Fuckin' Plate Mod",
+      "hubId": "1023"
+    },
+    {
+      "name": "Birthright Suit",
+      "hubId": "1021"
+    },
+    {
+      "name": "Questor",
+      "hubId": "1018"
+    },
+    {
+      "name": "Enhanced Loot Bags API",
+      "hubId": "1010"
+    },
+    {
+      "name": "SystmGift",
+      "hubId": "1008"
+    },
+    {
+      "name": "Updated 0.13 Boss Voices",
+      "hubId": "1006"
+    },
+    {
+      "name": "Sbedu's Gun Game",
+      "hubId": "1003"
+    },
+    {
+      "name": "0.13 Usable Items",
+      "hubId": "1001"
+    },
+    {
+      "name": "Native SPT Manager",
+      "hubId": "996"
+    },
+    {
+      "name": "PMC Bots Have EOD Account (OUTDATED, USE NOOKY'S VERSION INSTEAD)",
+      "hubId": "991"
+    },
+    {
+      "name": "ArmorModifier",
+      "hubId": "990"
+    },
+    {
+      "name": "Kiki-MarkFIR",
+      "hubId": "984"
+    },
+    {
+      "name": "Mod Manager",
+      "hubId": "983"
+    },
+    {
+      "name": "Background Manager",
+      "hubId": "978"
+    },
+    {
+      "name": "launcheraio but not as advanced",
+      "hubId": "977"
+    },
+    {
+      "name": "Immersive Bot Names",
+      "hubId": "973"
+    },
+    {
+      "name": "Nomad 420's Ported Clothing &amp; Gear Pack",
+      "hubId": "969"
+    },
+    {
+      "name": "Classic Gorka Suits Port",
+      "hubId": "966"
+    },
+    {
+      "name": "Boop's Quest Zone API",
+      "hubId": "964"
+    },
+    {
+      "name": "ATLAS Clothes Port to latest aki",
+      "hubId": "963"
+    },
+    {
+      "name": "TheRedCap's Bot Progression",
+      "hubId": "962"
+    },
+    {
+      "name": "Boop's TagEverything Mod",
+      "hubId": "960"
+    },
+    {
+      "name": "The Pathogen - Resilience Skill",
+      "hubId": "958"
+    },
+    {
+      "name": "MultiCam Gear and Clothing",
+      "hubId": "951"
+    },
+    {
+      "name": "A-TACS Clothing by FALmonsta ported to AKI 3.5.0",
+      "hubId": "950"
+    },
+    {
+      "name": "A-TACS Gear by FALmonsta ported to AKI 3.5.0",
+      "hubId": "949"
+    },
+    {
+      "name": "(TEMPORARILY DEPRECATED) SAVID Recoil Preset (for Fontaine's Recoil and Attachment Mod)",
+      "hubId": "947"
+    },
+    {
+      "name": "Guest_Gear Digital Flora Gear by JustNU ported to 3.7.*",
+      "hubId": "946"
+    },
+    {
+      "name": "Project Multicam",
+      "hubId": "945"
+    },
+    {
+      "name": "KeyMaster Trader",
+      "hubId": "943"
+    },
+    {
+      "name": "Simple Raid Config",
+      "hubId": "941"
+    },
+    {
+      "name": "Guest_Gear Digital Flora Clothing by JustNU ported to 3.7.*",
+      "hubId": "940"
+    },
+    {
+      "name": "TaintedSlav's AKI Launcher background replacer",
+      "hubId": "938"
+    },
+    {
+      "name": "AT's R-201 SOAR",
+      "hubId": "933"
+    },
+    {
+      "name": "Additional Gear - Tan Module, Rigs",
+      "hubId": "932"
+    },
+    {
+      "name": "Additional Gear - Tan Module, Misc",
+      "hubId": "931"
+    },
+    {
+      "name": "Additional Gear - Tan Module, Headwear",
+      "hubId": "930"
+    },
+    {
+      "name": "Additional Gear - Tan Module, Backpacks",
+      "hubId": "929"
+    },
+    {
+      "name": "Additional Gear - Tan Module, Armored Vests",
+      "hubId": "928"
+    },
+    {
+      "name": "Glock 19X 9x19mm Pistol",
+      "hubId": "925"
+    },
+    {
+      "name": "AT's G2A5 Battle Rifle",
+      "hubId": "923"
+    },
+    {
+      "name": "Steyr AUG 5.56x45mm Assault Rifle",
+      "hubId": "921"
+    },
+    {
+      "name": "Cap's Edits",
+      "hubId": "920"
+    },
+    {
+      "name": "AT's Hipfire Crosshair",
+      "hubId": "918"
+    },
+    {
+      "name": "Faction Identifier Armbands",
+      "hubId": "916"
+    },
+    {
+      "name": "JoshJ5Hawk's Super Loot",
+      "hubId": "913"
+    },
+    {
+      "name": "Alex's Stackable Junk",
+      "hubId": "912"
+    },
+    {
+      "name": "Alex's Unblocked Head Gear",
+      "hubId": "911"
+    },
+    {
+      "name": "Alex's Bigger Pockets",
+      "hubId": "910"
+    },
+    {
+      "name": "InternalError_'s Modular cases",
+      "hubId": "908"
+    },
+    {
+      "name": "Alex's Armored Tac Rigs With Plates",
+      "hubId": "905"
+    },
+    {
+      "name": "Less Tedious Quests",
+      "hubId": "904"
+    },
+    {
+      "name": "Rhyufer + Felyx's Limb Armor",
+      "hubId": "902"
+    },
+    {
+      "name": "Fence's Fresh Stock (unavailable)",
+      "hubId": "901"
+    },
+    {
+      "name": "Blackpowder (UNAVAILABLE)",
+      "hubId": "900"
+    },
+    {
+      "name": "Emporium (UNAVAILABLE)",
+      "hubId": "899"
+    },
+    {
+      "name": "Supplier",
+      "hubId": "896"
+    },
+    {
+      "name": "InternalError_'s Color coded prices",
+      "hubId": "892"
+    },
+    {
+      "name": "Holster Any Gun",
+      "hubId": "891"
+    },
+    {
+      "name": "HotCultists",
+      "hubId": "890"
+    },
+    {
+      "name": "Holster Shotguns",
+      "hubId": "883"
+    },
+    {
+      "name": "Angel in white Kiriko",
+      "hubId": "872"
+    },
+    {
+      "name": "Meguru is coming! (New immersive trader and custom quest mod)",
+      "hubId": "871"
+    },
+    {
+      "name": "Tan Fischer Suppressor",
+      "hubId": "865"
+    },
+    {
+      "name": "JoshJ5Hawk's NoHydroEnergy (Updated)",
+      "hubId": "858"
+    },
+    {
+      "name": "Alternative Krechet Reticle",
+      "hubId": "857"
+    },
+    {
+      "name": "Force Grip Great Again (FGGA)",
+      "hubId": "855"
+    },
+    {
+      "name": "K-9 Case Dealer",
+      "hubId": "854"
+    },
+    {
+      "name": "LAn's Spawn Presets (Based on Lua's Spawn Rework)",
+      "hubId": "853"
+    },
+    {
+      "name": "Laser's Scav Boss AI",
+      "hubId": "852"
+    },
+    {
+      "name": "Ammo Rework (ABANDONED)",
+      "hubId": "851"
+    },
+    {
+      "name": "Like Live Preset for Lua Spawn Rework",
+      "hubId": "849"
+    },
+    {
+      "name": "Another retexture.",
+      "hubId": "848"
+    },
+    {
+      "name": "CS:GO Music Pack",
+      "hubId": "846"
+    },
+    {
+      "name": "Clear NVGs (and Thermals) 1.0.0  (updated)",
+      "hubId": "844"
+    },
+    {
+      "name": "Firearm Deafen",
+      "hubId": "838"
+    },
+    {
+      "name": "Armor Plate Model.",
+      "hubId": "837"
+    },
+    {
+      "name": "Don't Feed The Dead",
+      "hubId": "836"
+    },
+    {
+      "name": "Pre-war Tarkov Music",
+      "hubId": "834"
+    },
+    {
+      "name": "Kalashnikov Duet Ducttaped",
+      "hubId": "833"
+    },
+    {
+      "name": "Boomsticks",
+      "hubId": "832"
+    },
+    {
+      "name": "Have you heard about armageddon ?",
+      "hubId": "821"
+    },
+    {
+      "name": "Lua's Item Smith",
+      "hubId": "820"
+    },
+    {
+      "name": "notGreg's Directional Damage Markers",
+      "hubId": "817"
+    },
+    {
+      "name": "Default / Quest Maniac Trader Image Replacer",
+      "hubId": "814"
+    },
+    {
+      "name": "Darker World Questline",
+      "hubId": "812"
+    },
+    {
+      "name": "Item Context Menu Scale",
+      "hubId": "811"
+    },
+    {
+      "name": "SNACCPACK",
+      "hubId": "810"
+    },
+    {
+      "name": "Fin's Bot Inventory Tweaks (FiBIT)",
+      "hubId": "809"
+    },
+    {
+      "name": "Lua's Auto Profile Backup",
+      "hubId": "808"
+    },
+    {
+      "name": "ACCURACY INTERNATIONAL AWM",
+      "hubId": "806"
+    },
+    {
+      "name": "AlexAIO-Reboot",
+      "hubId": "805"
+    },
+    {
+      "name": "Questor-Reboot",
+      "hubId": "804"
+    },
+    {
+      "name": "AllItemsExamined-Reboot",
+      "hubId": "803"
+    },
+    {
+      "name": "Fin's Armor Plates",
+      "hubId": "800"
+    },
+    {
+      "name": "Old Free Look",
+      "hubId": "796"
+    },
+    {
+      "name": "Lua's Cultists Spawn Patcher",
+      "hubId": "795"
+    },
+    {
+      "name": "AI Disabler",
+      "hubId": "794"
+    },
+    {
+      "name": "HEX'S FIREARMS PRODUCTION BUSINESS MOD Ducttaped",
+      "hubId": "792"
+    },
+    {
+      "name": "Mega Meds",
+      "hubId": "791"
+    },
+    {
+      "name": "AllTheBackupSights",
+      "hubId": "790"
+    },
+    {
+      "name": "Bot Names (Updated)",
+      "hubId": "789"
+    },
+    {
+      "name": "OP RK2",
+      "hubId": "786"
+    },
+    {
+      "name": "Assorted Weapons Armory",
+      "hubId": "784"
+    },
+    {
+      "name": "InternalError_'s Tarkov Mastery",
+      "hubId": "782"
+    },
+    {
+      "name": "Skin Service",
+      "hubId": "781"
+    },
+    {
+      "name": "LHA-Low Health Alert Rewritten",
+      "hubId": "780"
+    },
+    {
+      "name": "QuestTrader",
+      "hubId": "779"
+    },
+    {
+      "name": "Special Meds slots",
+      "hubId": "776"
+    },
+    {
+      "name": "Lua-ScavMapAccessKeyPatcher",
+      "hubId": "774"
+    },
+    {
+      "name": "Korean Font Fix",
+      "hubId": "773"
+    },
+    {
+      "name": "SamSWAT's EOTech Vudu Overhaul ported to 3.1.1",
+      "hubId": "770"
+    },
+    {
+      "name": "kmyuhkyuk's GFL2 Character Skin+Voice",
+      "hubId": "769"
+    },
+    {
+      "name": "Fin's Armor Upgrader",
+      "hubId": "768"
+    },
+    {
+      "name": "PlayerSpawns (That Make Sense)",
+      "hubId": "767"
+    },
+    {
+      "name": "Customs traders on the Flea",
+      "hubId": "766"
+    },
+    {
+      "name": "InternalError_'s Blackmarket trader",
+      "hubId": "763"
+    },
+    {
+      "name": "Custom Loading Messages",
+      "hubId": "762"
+    },
+    {
+      "name": "Environment Replace",
+      "hubId": "759"
+    },
+    {
+      "name": "InternalError_'s Insurable Grenades",
+      "hubId": "747"
+    },
+    {
+      "name": "InternalError_'s Insurable Meds",
+      "hubId": "745"
+    },
+    {
+      "name": "Illegal Ammo",
+      "hubId": "744"
+    },
+    {
+      "name": "JoshJ5Hawk's Super Ammo",
+      "hubId": "738"
+    },
+    {
+      "name": "BodyBlessings",
+      "hubId": "736"
+    },
+    {
+      "name": "Bacon's Better Launcher",
+      "hubId": "735"
+    },
+    {
+      "name": "Moonm3n-GunnyDerp The 3.1.1 Gunsmith",
+      "hubId": "734"
+    },
+    {
+      "name": "ZeroTimes Ported 3.0.0",
+      "hubId": "732"
+    },
+    {
+      "name": "JoshJ5Hawk's Item Prices",
+      "hubId": "731"
+    },
+    {
+      "name": "Moonm3n-BulletsInsurance",
+      "hubId": "730"
+    },
+    {
+      "name": "Moonm3n-PapaSellsBP",
+      "hubId": "729"
+    },
+    {
+      "name": "Faction Advantages",
+      "hubId": "728"
+    },
+    {
+      "name": "ZeroTimes Ported",
+      "hubId": "725"
+    },
+    {
+      "name": "SPT-Launcher",
+      "hubId": "723"
+    },
+    {
+      "name": "SAG AK-545 5.45x39 carbine",
+      "hubId": "720"
+    },
+    {
+      "name": "Accuracy International AXMC .338 LM bolt-action sniper rifle",
+      "hubId": "719"
+    },
+    {
+      "name": "InternalError_'s Bigger Ammo Stacks",
+      "hubId": "718"
+    },
+    {
+      "name": "Launcher AIO",
+      "hubId": "717"
+    },
+    {
+      "name": "Heckler &amp; Koch G36 \"Dream Maker\"",
+      "hubId": "716"
+    },
+    {
+      "name": "Rifle Dynamics RD-704",
+      "hubId": "715"
+    },
+    {
+      "name": "SPTLAMM",
+      "hubId": "712"
+    },
+    {
+      "name": "MP-18 Single-Shot Rifle",
+      "hubId": "711"
+    },
+    {
+      "name": "Andrudis-QuestManiac Updated",
+      "hubId": "709"
+    },
+    {
+      "name": "Ashley's Custom Quest Pack",
+      "hubId": "708"
+    },
+    {
+      "name": "Training Stims",
+      "hubId": "704"
+    },
+    {
+      "name": "Ironman Mode",
+      "hubId": "703"
+    },
+    {
+      "name": "Baba Yaga",
+      "hubId": "701"
+    },
+    {
+      "name": "HPwithDebuff",
+      "hubId": "700"
+    },
+    {
+      "name": "Trap's Progressive Stash",
+      "hubId": "699"
+    },
+    {
+      "name": "Rogue Bosses Clothing bundle",
+      "hubId": "698"
+    },
+    {
+      "name": "Milkor M32A1 MSGL",
+      "hubId": "696"
+    },
+    {
+      "name": "EXP Trader",
+      "hubId": "694"
+    },
+    {
+      "name": "ArmorUpgrader",
+      "hubId": "693"
+    },
+    {
+      "name": "BlackMarket",
+      "hubId": "692"
+    },
+    {
+      "name": "Coolest Vector.",
+      "hubId": "691"
+    },
+    {
+      "name": "Trap's AIO",
+      "hubId": "690"
+    },
+    {
+      "name": "LooseLootQuality",
+      "hubId": "689"
+    },
+    {
+      "name": "Improved Progression",
+      "hubId": "688"
+    },
+    {
+      "name": "Fin's Mishmash Weapons",
+      "hubId": "686"
+    },
+    {
+      "name": "Back to 2.3.1",
+      "hubId": "684"
+    },
+    {
+      "name": "Tame AGS-30 and NSV \"Utyos\".",
+      "hubId": "683"
+    },
+    {
+      "name": "Coolest DevTac Ronin with thermal vision.",
+      "hubId": "682"
+    },
+    {
+      "name": "Average Sized 1911 Slide",
+      "hubId": "680"
+    },
+    {
+      "name": "Leupold LCO",
+      "hubId": "678"
+    },
+    {
+      "name": "Regular PMC names",
+      "hubId": "677"
+    },
+    {
+      "name": "CANN-Ruined Wooden Box (MOD TRANSFERRED)",
+      "hubId": "676"
+    },
+    {
+      "name": "CANN-Recycled Ammo Bag (MOD TRANSFERRED)",
+      "hubId": "675"
+    },
+    {
+      "name": "CANN-ModCase (MOD TRANSFERRED)",
+      "hubId": "674"
+    },
+    {
+      "name": "CANN-Small Toolbox (MOD TRANSFERRED)",
+      "hubId": "673"
+    },
+    {
+      "name": "SPT-AKI game editor",
+      "hubId": "670"
+    },
+    {
+      "name": "LHA-Low Health Alert",
+      "hubId": "662"
+    },
+    {
+      "name": "Examine All In Raid",
+      "hubId": "660"
+    },
+    {
+      "name": "EMR (Digital Flora) Tracksuit",
+      "hubId": "658"
+    },
+    {
+      "name": "Hex's Firearms Production Business Mod (BIG MONEY VERSION)",
+      "hubId": "657"
+    },
+    {
+      "name": "Traders on Flea",
+      "hubId": "656"
+    },
+    {
+      "name": "Hex's Firearms Production Business Mod (HARDCORE VERSION)",
+      "hubId": "655"
+    },
+    {
+      "name": "Skin Hide",
+      "hubId": "654"
+    },
+    {
+      "name": "Hex's Buy Your Own Weapon Presets From The Flea",
+      "hubId": "653"
+    },
+    {
+      "name": "No Run Through",
+      "hubId": "651"
+    },
+    {
+      "name": "Examine Items by Category",
+      "hubId": "650"
+    },
+    {
+      "name": "Mark Items FIR (Found In Raid)",
+      "hubId": "649"
+    },
+    {
+      "name": "Headlamps Fix",
+      "hubId": "648"
+    },
+    {
+      "name": "Caiman Retexture Bundle",
+      "hubId": "644"
+    },
+    {
+      "name": "AnimationclipDetector",
+      "hubId": "642"
+    },
+    {
+      "name": "VovanchikAziatHAck",
+      "hubId": "640"
+    },
+    {
+      "name": "Fin's Big Rigs",
+      "hubId": "637"
+    },
+    {
+      "name": "Bigger stacks",
+      "hubId": "636"
+    },
+    {
+      "name": "Hideout Items",
+      "hubId": "635"
+    },
+    {
+      "name": "Yim's Recoil Tweaks",
+      "hubId": "634"
+    },
+    {
+      "name": "BitcoinPrice",
+      "hubId": "633"
+    },
+    {
+      "name": "Speed Loader",
+      "hubId": "631"
+    },
+    {
+      "name": "Bigger Secure Cases",
+      "hubId": "630"
+    },
+    {
+      "name": "Bigger Backpacks",
+      "hubId": "629"
+    },
+    {
+      "name": "ThatGuyXiV's Random Loose Loot - FOR SPT AKI 2.2.3 ONLY",
+      "hubId": "628"
+    },
+    {
+      "name": "Bigger cases",
+      "hubId": "627"
+    },
+    {
+      "name": "Lock-picking Attorney (Trader)",
+      "hubId": "626"
+    },
+    {
+      "name": "Examine All Items",
+      "hubId": "625"
+    },
+    {
+      "name": "cas-crabgod",
+      "hubId": "623"
+    },
+    {
+      "name": "Dynamic Time Cycle",
+      "hubId": "621"
+    },
+    {
+      "name": "Fin's Realistically Equipped Traders",
+      "hubId": "617"
+    },
+    {
+      "name": "Loose Loot Overlay",
+      "hubId": "616"
+    },
+    {
+      "name": "SirBrando's Tarkov Music",
+      "hubId": "615"
+    },
+    {
+      "name": "A-TACS FG gear and clothing bundle",
+      "hubId": "614"
+    },
+    {
+      "name": "Valens Has The Power",
+      "hubId": "613"
+    },
+    {
+      "name": "Holosun HS507C ACSS Vulcan",
+      "hubId": "612"
+    },
+    {
+      "name": "Tacticool Replacers",
+      "hubId": "611"
+    },
+    {
+      "name": "Clodan Client Utils (lib)",
+      "hubId": "610"
+    },
+    {
+      "name": "Questor and Gunsmith Improved",
+      "hubId": "609"
+    },
+    {
+      "name": "Hideout Helper",
+      "hubId": "608"
+    },
+    {
+      "name": "Kobra's NFArious Firearms",
+      "hubId": "607"
+    },
+    {
+      "name": "Yim's Recoil Tweaks - Ported to 2.3.0 w/ 12.12 recoil addition",
+      "hubId": "605"
+    },
+    {
+      "name": "Music for main menu (AlexJ Edition)",
+      "hubId": "604"
+    },
+    {
+      "name": "Gamenator Crazyguns and pockets",
+      "hubId": "601"
+    },
+    {
+      "name": "ThatGuyXIV's PMC Bot Config",
+      "hubId": "600"
+    },
+    {
+      "name": "Fox's Music Pack: CODMW 2019",
+      "hubId": "599"
+    },
+    {
+      "name": "Fox's Music Pack: CODCW",
+      "hubId": "598"
+    },
+    {
+      "name": "Custom Quests Editor",
+      "hubId": "596"
+    },
+    {
+      "name": "PTT Extract Requirements",
+      "hubId": "595"
+    },
+    {
+      "name": "SPO TEST Batch",
+      "hubId": "594"
+    },
+    {
+      "name": "Headset Configurator",
+      "hubId": "593"
+    },
+    {
+      "name": "Ereshkigal-AkiConfigurator",
+      "hubId": "591"
+    },
+    {
+      "name": "Custom Quests",
+      "hubId": "588"
+    },
+    {
+      "name": "Fox Core Sound Mod",
+      "hubId": "587"
+    },
+    {
+      "name": "Old UI Sounds",
+      "hubId": "585"
+    },
+    {
+      "name": "Le Kaiju AdvancedModding (Port)",
+      "hubId": "581"
+    },
+    {
+      "name": "TrapModLoader",
+      "hubId": "579"
+    },
+    {
+      "name": "JoshJ5Hawk's NoHydroEnergy",
+      "hubId": "578"
+    },
+    {
+      "name": "ORZ Multicam Crye Precision G3 Combat Uniform - Ported to SPT-AKI 2.2.3",
+      "hubId": "577"
+    },
+    {
+      "name": "ATLAS Weapons &amp; Equipment Pack",
+      "hubId": "576"
+    },
+    {
+      "name": "Infinity's MP7 Recoil Balance",
+      "hubId": "573"
+    },
+    {
+      "name": "MonsterBoyIz' \"The Box\"",
+      "hubId": "572"
+    },
+    {
+      "name": "Carriers Protect Stomach",
+      "hubId": "571"
+    },
+    {
+      "name": "Super MMAC",
+      "hubId": "568"
+    },
+    {
+      "name": "Armor Configurator",
+      "hubId": "566"
+    },
+    {
+      "name": "Geneburn Music Pack",
+      "hubId": "564"
+    },
+    {
+      "name": "Flashlight Reclamation Project",
+      "hubId": "561"
+    },
+    {
+      "name": "Buy preset weapons from traders",
+      "hubId": "559"
+    }
   ]
 }
