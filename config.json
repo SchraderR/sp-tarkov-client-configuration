@@ -1,4 +1,6 @@
 ﻿{
+  // export const clientModPath = 'BepInEx/plugins';
+  // export const serverModPath = 'user/mods';
   "alternativeServerModNames": {
     "SVM": "Server Value Modifier [SVM]",
     "SAIN": "SAIN 2.0 - Solarint\"s AI Modifications - Full AI Combat System Replacement",
@@ -168,7 +170,8 @@
     "Unity Bundle CAB-ID Changer",
     "DebugPlus",
     "Load Order Editor Drag-Drop",
-    "AKI Mods Installer"
+    "AKI Mods Installer",
+    "Assort editor"
   ],
   "modMetaData": [
     {
