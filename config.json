@@ -187,6 +187,12 @@
     "AKI Mods Installer",
     "Assort editor"
   ],
+  "modDependency": [
+    {
+      "hubId": "878",
+      "dependencies": ["1119", "1976"]
+    }
+  ],
   "modMetaData": [
     {
       "name": "The Punisher - Part 7",
