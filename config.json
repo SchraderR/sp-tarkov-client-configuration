@@ -191,6 +191,10 @@
     {
       "hubId": "878",
       "dependencies": ["1119", "1976"]
+    },
+    {
+      "hubId": "1062",
+      "dependencies": ["1119", "1219"]
     }
   ],
   "modMetaData": [
