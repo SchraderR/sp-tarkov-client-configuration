@@ -204,6 +204,54 @@
     {
       "hubId": "1555",
       "dependencies": ["1412"]
+    },
+    {
+      "hubId": "2299",
+      "dependencies": ["885"]
+    },
+    {
+      "hubId": "1096",
+      "dependencies": ["1219"]
+    },
+    {
+      "hubId": "652",
+      "dependencies": ["1215"]
+    },
+    {
+      "hubId": "1534",
+      "dependencies": ["1219", "1119"]
+    },
+    {
+      "hubId": "1410",
+      "dependencies": ["885", "2098"]
+    },
+    {
+      "hubId": "1345",
+      "dependencies": ["1412"]
+    },
+    {
+      "hubId": "1183",
+      "dependencies": ["885"]
+    },
+    {
+      "hubId": "1404",
+      "dependencies": ["1412"]
+    },
+    {
+      "hubId": "1717",
+      "dependencies": ["885"]
+    },
+    {
+      "hubId": "1379",
+      "dependencies": ["1412"]
+    },
+    {
+      "hubId": "1313",
+      "dependencies": ["1412"]
+    },
+    {
+      "hubId": "1260",
+      "dependencies": ["1412"]
     }
   ],
   "modMetaData": [
