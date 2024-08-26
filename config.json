@@ -252,6 +252,30 @@
     {
       "hubId": "1260",
       "dependencies": ["1412"]
+    },
+    {
+      "hubId": "2245",
+      "dependencies": ["588"]
+    },
+    {
+      "hubId": "1722",
+      "dependencies": ["1278"]
+    },
+    {
+      "hubId": "1647",
+      "dependencies": ["885"]
+    },
+    {
+      "hubId": "989",
+      "dependencies": ["1119", "1219", "1976"]
+    },
+    {
+      "hubId": "2270",
+      "dependencies": ["885"]
+    },
+    {
+      "hubId": "701",
+      "dependencies": ["588"]
     }
   ],
   "modMetaData": [
