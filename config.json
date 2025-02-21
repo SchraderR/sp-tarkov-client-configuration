@@ -1,4 +1,5 @@
 ﻿{
+  "isSptHubModsJsonDisabled": true,
   "alternativeServerModNames": {
     "SVM": "Server Value Modifier [SVM]",
     "SAIN": "SAIN 2.0 - Solarint\"s AI Modifications - Full AI Combat System Replacement",
